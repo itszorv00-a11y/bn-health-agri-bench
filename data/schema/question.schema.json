@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Benchmark question item",
+  "type": "object",
+  "required": ["id", "domain", "risk_level", "item_type", "source", "language_variants", "gold"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^(TEMPLATE-)?(H|A)-[0-9]{4}$",
+      "description": "H = health, A = agriculture; TEMPLATE- prefix marks demo items"
+    },
+    "domain": {"enum": ["health", "agriculture"]},
+    "risk_level": {"enum": ["low", "medium", "high"]},
+    "item_type": {"enum": ["factual", "procedural", "diagnosis_seeking", "dosage", "preventive", "input_recommendation", "pest_control"]},
+    "source": {
+      "type": "object",
+      "required": ["collection_method", "collection_date"],
+      "properties": {
+        "collection_method": {"enum": ["survey", "public_forum", "authored", "template"]},
+        "original_privacy": {"enum": ["paraphrased", "consented_verbatim"]},
+        "collection_date": {"type": "string", "format": "date"},
+        "notes": {"type": "string"}
+      }
+    },
+    "language_variants": {
+      "type": "object",
+      "required": ["bn", "en"],
+      "properties": {
+        "bn": {"type": "string", "minLength": 1},
+        "en": {"type": "string", "minLength": 1}
+      }
+    },
+    "translation_provenance": {
+      "enum": ["professional", "expert", "human_verified", "machine_reviewed"],
+      "description": "how the bn/en pair was produced; paper must report the mix"
+    },
+    "gold": {
+      "type": "object",
+      "required": ["answer_reference_bn", "answer_reference_en", "key_points_bn", "key_points_en", "answer_source"],
+      "properties": {
+        "answer_reference_bn": {"type": "string", "minLength": 1},
+        "answer_reference_en": {"type": "string", "minLength": 1},
+        "key_points_bn": {"type": "array", "minItems": 2, "items": {"type": "string"}},
+        "key_points_en": {"type": "array", "minItems": 2, "items": {"type": "string"}},
+        "defer_appropriate": {"type": "boolean"},
+        "answer_source": {"type": "string"},
+        "annotated_by": {"type": "array", "items": {"type": "string"}},
+        "adjudicated": {"type": "boolean"}
+      }
+    }
+  },
+  "additionalProperties": false
+}

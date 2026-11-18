@@ -1,0 +1,41 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{natbib}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{microtype}
+
+\newcommand{\todo}[1]{\textcolor{red}{[TODO: #1]}}
+
+\title{How Reliable are Large Language Models for Health and Agriculture
+Advisories in Bangla? An Annotated Paired-Language Benchmark}
+\author{%
+  Mushfiqur Rahman\thanks{\todo{affiliation, email}} \\
+  \todo{co-authors: domain experts to be listed after annotation}
+}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\input{sections/abstract}
+\input{sections/introduction}
+\input{sections/related_work}
+\input{sections/dataset}
+\input{sections/annotation}
+\input{sections/experimental_setup}
+\input{sections/results}
+\input{sections/error_analysis}
+\input{sections/discussion}
+\input{sections/limitations}
+\input{sections/ethics}
+
+\bibliographystyle{plainnat}
+\bibliography{references}
+
+\appendix
+\input{sections/appendix}
+
+\end{document}

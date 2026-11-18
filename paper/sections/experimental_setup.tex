@@ -1,0 +1,18 @@
+\section{Experimental Setup}
+\label{sec:setup}
+
+\paragraph{Models.} \todo{exact dated snapshot ids, e.g.,
+gpt-4o-2024-08-06, claude-sonnet-4-20250514, gemini-1.5-pro-002; run within a
+two-week window; API version headers recorded per response.}
+
+\paragraph{Decoding.} Temperature 0, max 1024 tokens, one fixed system prompt
+per language-of-question; the full template and prompt hashes appear in the
+appendix and repository.
+
+\paragraph{Judging.} Automated key-point coverage and an LLM judge were used
+only as pre-screening; all reported labels are human annotations. Model
+versions are recorded per response per our versioning protocol.
+
+\paragraph{Statistics.} Accuracy at threshold ``at least partially correct'',
+95\% percentile bootstrap CIs (10{,}000 resamples), paired permutation tests,
+and exact McNemar tests for the paired Bangla--English comparison.

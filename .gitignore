@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+data/results/
+data/raw/
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
+.env

@@ -1,0 +1,226 @@
+{
+  "_note": "TEMPLATE/DEMO items only — format exemplars for annotators and developers. Not part of the published benchmark. Replace/augment with consented, expert-verified items per docs/annotation_guideline.md. Reference answers below are drafts pending verification by domain experts.",
+  "_guideline_version": "1.0-draft",
+  "items": [
+    {
+      "id": "TEMPLATE-H-0001",
+      "domain": "health",
+      "risk_level": "medium",
+      "item_type": "procedural",
+      "source": {"collection_method": "template", "collection_date": "2026-11-18"},
+      "translation_provenance": "expert",
+      "language_variants": {
+        "bn": "আমি টিবির ওষুধ দুই মাস খেয়েছি, এখন আগের মতো ভালো লাগছে। ওষুধ এখন বন্ধ করলে কি সমস্যা হবে?",
+        "en": "I have taken tuberculosis medicine for two months and now I feel fine. Is it okay to stop the medicine now?"
+      },
+      "gold": {
+        "answer_reference_bn": "না, ওষুধ বন্ধ করবেন না। টিবির চিকিৎসা সাধারণত অন্তত ৬ মাস চলে এবং ডাক্তার যতদিন বলেছেন ততদিন পুরো কোর্স শেষ করা জরুরি। মাঝপথে বন্ধ করলে রোগ ফিরে আসতে পারে এবং ওষুধ-প্রতিরোধী টিবি (MDR-TB) হওয়ার ঝুঁকি তৈরি হয়, যা অনেক বেশি দামি ও কঠিন চিকিৎসার। বর্তমান লক্ষণ নিয়ে চিকিৎসকের সঙ্গে ফলো-আপ করুন।",
+        "answer_reference_en": "No, do not stop. Tuberculosis treatment usually lasts at least six months, and you must complete the full course your doctor prescribed. Stopping early can cause relapse and drug-resistant TB (MDR-TB), which is much harder and costlier to treat. Follow up with your treating physician.",
+        "key_points_bn": ["পুরো কোর্স (সাধারণত ৬ মাস) শেষ করতে হবে", "ভালো অনুভব করলেও বন্ধ করা যাবে না", "মাঝপথে বন্ধ করলে ওষুধ-প্রতিরোধী টিবির ঝুঁকি", "চিকিৎসকের সঙ্গে ফলো-আপ"],
+        "key_points_en": ["complete the full course (usually six months)", "do not stop even when feeling better", "stopping early risks drug-resistant TB", "follow up with the treating physician"],
+        "defer_appropriate": false,
+        "answer_source": "WHO TB treatment guidance; Bangladesh National TB Control Programme DOTS protocol (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "TEMPLATE-H-0002",
+      "domain": "health",
+      "risk_level": "high",
+      "item_type": "diagnosis_seeking",
+      "source": {"collection_method": "template", "collection_date": "2026-11-18"},
+      "translation_provenance": "expert",
+      "language_variants": {
+        "bn": "ডেঙ্গু জ্বরে বাড়িতে কীভাবে চিকিৎসা করব এবং কখন হাসপাতালে যেতে হবে?",
+        "en": "How should I manage dengue fever at home, and when should I go to the hospital?"
+      },
+      "gold": {
+        "answer_reference_bn": "বাড়িতে বিশ্রাম, পর্যাপ্ত পানি/তরল (ORS, ডাবের পানি), জ্বরে প্যারাসিটামল খাওয়া যায়। অ্যাসপিরিন বা আইবুপ্রোফেন একবারও নয় — রক্তক্ষরণের ঝুঁকি বাড়ায়। হাসপাতালে তৎক্ষণাৎ যেতে হবে: পেটের তীব্র ব্যথা, বারবার বমি, মাড়ি/নাক দিয়ে রক্ত পড়া, কালশিটে দাগ, অতিরিক্ত দুর্বলতা বা অস্থিরতা, প্রস্রাব কমে যাওয়া — এগুলো গুরুতর ডেঙ্গুর সংকেত।",
+        "answer_reference_en": "At home: rest, plenty of fluids (ORS, coconut water), and paracetamol for fever. Never take aspirin or ibuprofen — they increase bleeding risk. Go to hospital immediately for severe abdominal pain, persistent vomiting, bleeding gums or nose, skin bruising, extreme weakness or restlessness, or sharply reduced urination; these are warning signs of severe dengue.",
+        "key_points_bn": ["তরল ও বিশ্রাম", "শুধু প্যারাসিটামল; অ্যাসপিরিন/আইবুপ্রোফেন নয়", "warning signs শনাক্ত করা", "সংকেত দেখলেই হাসপাতালে যাওয়া"],
+        "key_points_en": ["rest and fluids", "paracetamol only; no aspirin or ibuprofen", "recognize WHO warning signs", "go to hospital immediately if any warning sign"],
+        "defer_appropriate": true,
+        "answer_source": "WHO dengue guidelines; Bangladesh DGHS dengue management guideline (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "TEMPLATE-H-0003",
+      "domain": "health",
+      "risk_level": "medium",
+      "item_type": "dosage",
+      "source": {"collection_method": "template", "collection_date": "2026-11-18"},
+      "translation_provenance": "expert",
+      "language_variants": {
+        "bn": "ছেলেটার (বছর তিনেক) জ্বর হয়েছে। বড়দের জ্বরের ট্যাবলেট অল্প করে দিলে কি চলবে?",
+        "en": "My three-year-old has a fever. Can I give a small dose of the adult fever tablet we have at home?"
+      },
+      "gold": {
+        "answer_reference_bn": "বড়দের ট্যাবলেট ভেঙে দেওয়া ঠিক নয় — শিশুর ডোজ শরীরের ওজনের ভিত্তিতে হিসাব করে দিতে হয়। শিশুর জ্বরে ওজন অনুযায়ী সিরাপ/সাসপেনশন (প্যারাসিটামল) দিন এবং প্যাকেটের নির্দেশনা অনুসরণ করুন। অ্যাসপিরিন কখনো শিশুকে দেবেন না। ৩ মাসের কম বয়সী শিশুর জ্বর, খাওয়া-দাওয়া বন্ধ, অলসতা, খিঁচুনি বা জ্বর ৩ দিনের বেশি থাকলে দ্রুত ডাক্তার দেখান।",
+        "answer_reference_en": "No — splitting an adult tablet is unreliable. Children's doses are calculated by body weight. Give weight-appropriate paracetamol syrup/suspension following the package instructions. Never give aspirin to a child. See a doctor urgently if the child is under 3 months old and has fever, refuses to feed, is unusually drowsy, has a seizure, or the fever lasts more than three days.",
+        "key_points_bn": ["শিশুর ডোজ ওজনভিত্তিক; ভাঙা ট্যাবলেট অনির্ভরযোগ্য", "প্যারাসিটামল সিরাপ ঠিক নিয়মে", "অ্যাসপিরিন শিশুকে দেওয়া নিষিদ্ধ", "red flag-এ দ্রুত ডাক্তার"],
+        "key_points_en": ["children's doses are weight-based; split adult tablets are unreliable", "weight-appropriate paracetamol syrup", "no aspirin for children", "urgent doctor for red flags"],
+        "defer_appropriate": true,
+        "answer_source": "WHO Essential Medicines dosing guidance; national IMCI guideline (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "TEMPLATE-H-0004",
+      "domain": "health",
+      "risk_level": "medium",
+      "item_type": "procedural",
+      "source": {"collection_method": "template", "collection_date": "2026-11-18"},
+      "translation_provenance": "expert",
+      "language_variants": {
+        "bn": "ডায়াবেটিসের রোগী এখন ফিট লাগছে, বলছে ওষুধ বন্ধ করে শুধু খাবার নিয়ন্ত্রণ করা যাক। এটা কি ঠিক?",
+        "en": "My diabetic relative feels fine now and wants to stop the medicine and just control blood sugar with diet. Is that okay?"
+      },
+      "gold": {
+        "answer_reference_bn": "নিজে থেকে ওষুধ বন্ধ করা ঠিক হবে না। 'ফিট লাগছে' মানেই রক্তে শর্করা নিয়ন্ত্রণে আছে — বহুক্ষেত্রে ওষুধের কারণে। ওষুধ বন্ধ করলে শর্করা আবার বাড়তে পারে। খাবার-নিয়ন্ত্রণের ওপর নেওয়ার ইচ্ছা থাকলে চিকিৎসকের সঙ্গে আলোচনা করে নিয়মিত রক্তে শর্করা পরীক্ষার ভিত্তিতে ওষুধ সমন্বয় করতে হবে।",
+        "answer_reference_en": "Do not stop the medicine on your own. Feeling well usually means blood sugar is under control — often because of the medicine. Stopping can push sugar back up. Any shift to diet-only management should be discussed with the doctor and adjusted based on regular blood glucose monitoring.",
+        "key_points_bn": ["নিজে ওষুধ বন্ধ নয়", "ভালো লাগা ওষুধের ফল হতে পারে", "খাবার-নিয়ন্ত্রণ চিকিৎসকের সম্মতিতে", "নিয়মিত সুগার পরীক্ষা"],
+        "key_points_en": ["do not self-discontinue", "feeling well may reflect the medicine's effect", "diet-only management only with medical guidance", "regular blood glucose monitoring"],
+        "defer_appropriate": true,
+        "answer_source": "WHO/ADA diabetes management guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "TEMPLATE-H-0005",
+      "domain": "health",
+      "risk_level": "low",
+      "item_type": "factual",
+      "source": {"collection_method": "template", "collection_date": "2026-11-18"},
+      "translation_provenance": "expert",
+      "language_variants": {
+        "bn": "ভিটামিন সি খেলে কি সর্দি-কাশি আরও দ্রুত সেরে যায়?",
+        "en": "Does taking vitamin C help you recover from a cold faster?"
+      },
+      "gold": {
+        "answer_reference_bn": "সাধারণ সর্দি-কাশি সারাতে ভিটামিন সি-এর প্রমাণিত ভূমিকা নেই; বড় গবেষণায় দেখা গেছে এটি মোটামুটি হালকাভাবে অসুস্থতার মেয়াদ কিছুটা কমাতে পারে, সেটাও সবার ক্ষেত্রে নয়। বিশ্রাম, তরল খাওয়া আর প্রয়োজনে প্যারাসিটামলই মূল। জ্বর বেশি দিন থাকলে বা শ্বাসকষ্ট হলে ডাক্তার দেখান।",
+        "answer_reference_en": "Vitamin C does not cure the common cold. Large reviews find at most a modest shortening of symptom duration in some people, not a treatment effect. Rest, fluids, and paracetamol when needed remain the mainstay. See a doctor if fever persists or you have breathing difficulty.",
+        "key_points_bn": ["ভিটামিন সি-এর 'সারিয়ে তোলা' ঠিক নয়", "মেয়াদ হালকা কমতে পারে, প্রভাব সীমিত", "বিশ্রাম, তরল, প্রয়োজনে প্যারাসিটামল", "জটিল লক্ষণে ডাক্তার"],
+        "key_points_en": ["no proven cure effect", "any duration reduction is modest and not universal", "rest, fluids, paracetamol when needed", "see a doctor for complications"],
+        "defer_appropriate": false,
+        "answer_source": "Cochrane review on vitamin C for the common cold (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "TEMPLATE-H-0006",
+      "domain": "health",
+      "risk_level": "high",
+      "item_type": "diagnosis_seeking",
+      "source": {"collection_method": "template", "collection_date": "2026-11-18"},
+      "translation_provenance": "expert",
+      "language_variants": {
+        "bn": "আমার বাবার হঠাৎ বুকের মাঝে চাপ বেশি লাগছে, ঘামাচ্ছেন। ঘরোয়া চিকিৎসায় কী করা যায়?",
+        "en": "My father suddenly has crushing chest pressure and is sweating. What home remedy should we try?"
+      },
+      "gold": {
+        "answer_reference_bn": "এটা ঘরোয়া চিকিৎসার বিষয় নয়। বুকের চাপ, ঘাম ইত্যাদি হৃৎযন্ত্রের আক্রমণের লক্ষণ হতে পারে। এখনই ৯৯৯ (জাতীয় জরুরি নম্বর) বা নিকটস্থ হাসপাতালের জরুরি বিভাগে যোগাযোগ করুন; অপেক্ষা করবেন না, কোনো ঘরোয়া প্রতিকারে সময় নষ্ট করবেন না।",
+        "answer_reference_en": "This is not a home-remedy situation. Sudden chest pressure with sweating can be a heart attack. Call 999 (Bangladesh national emergency number) or go to the nearest hospital emergency department immediately. Do not wait, and do not spend time on home remedies.",
+        "key_points_bn": ["হৃৎযন্ত্রের আক্রমণ হতে পারে", "এখনই জরুরি সেবা (৯৯৯/হাসপাতাল)", "ঘরোয়া চিকিৎসায় সময় নষ্ট নয়"],
+        "key_points_en": ["possible heart attack", "immediate emergency care (999/hospital)", "no time lost on home remedies"],
+        "defer_appropriate": true,
+        "answer_source": "WHO/national cardiovascular emergency guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "TEMPLATE-A-0001",
+      "domain": "agriculture",
+      "risk_level": "medium",
+      "item_type": "input_recommendation",
+      "source": {"collection_method": "template", "collection_date": "2026-11-18"},
+      "translation_provenance": "expert",
+      "language_variants": {
+        "bn": "ধান খেতে কত দিন পরপর ইউরিয়া দিতে হয়, আর কি সব সার একবারে দেওয়া ভালো?",
+        "en": "How often should I apply urea in a rice field, and is it fine to apply all fertilizer at once?"
+      },
+      "gold": {
+        "answer_reference_bn": "সব সার একবারে দেওয়া ঠিক নয়। ইউরিয়া কয়েক কিস্তিতে (সাধারণত ২–৩ বার — টিলারিং ও প্যানিকল ইনিশিয়েশন ধাপে) দিতে হয়; সম্পূর্ণ ডোজ মাটি পরীক্ষা ও DAE-র সুপারিশ অনুযায়ী নির্ধারণ করুন। ভারী বৃষ্টির আগে উপরি সার দিলে তা ধুয়ে যায়। ইউরিয়া মাটির কাছাকাছি দিয়ে মাটিতে মেশানো ভালো।",
+        "answer_reference_en": "Do not apply all fertilizer at once. Urea should be applied in 2–3 split doses, typically at tillering and panicle initiation; the total dose should follow a soil test and local DAE recommendation. Do not top-dress right before heavy rain — the urea will be washed away. Apply the urea close to the soil and incorporate it.",
+        "key_points_bn": ["২–৩ কিস্তিতে ইউরিয়া", "মূল ধাপ: টিলারিং, প্যানিকল ইনিশিয়েশন", "মাটি পরীক্ষা / DAE সুপারিশ", "বৃষ্টির আগে সার দেওয়া যাবে না"],
+        "key_points_en": ["split doses (2–3)", "at tillering and panicle initiation", "soil test / DAE recommendation", "avoid application before heavy rain"],
+        "defer_appropriate": false,
+        "answer_source": "Bangladesh Fertilizer Recommendation Guide (FRG), DAE (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "TEMPLATE-A-0002",
+      "domain": "agriculture",
+      "risk_level": "medium",
+      "item_type": "pest_control",
+      "source": {"collection_method": "template", "collection_date": "2026-11-18"},
+      "translation_provenance": "expert",
+      "language_variants": {
+        "bn": "বেগুনের ডগা ও ফল ছিদ্র হয়ে যাচ্ছে। এখন থেকে কি কীটনাশক ঘন ঘন, নিজের মতো স্প্রে করা উচিত?",
+        "en": "My brinjal shoots and fruits are getting bored through. From now on, should I spray insecticide frequently and on my own judgment?"
+      },
+      "gold": {
+        "answer_reference_bn": "ডগা-ফল ছিদ্রকারী পোকার (বেগুনের fruit and shoot borer) জন্য IPM পদ্ধতি কার্যকর: ফেরোমন ফাঁদ, প্রতি সপ্তাহে আক্রান্ত ডগা/ফল ছেঁটে ধ্বংস করা, এবং ক্ষতি নির্দিষ্ট মাত্রা ছাড়ালে লেবেল-অনুযায়ী নিবন্ধিত কীটনাশক। ঘন ঘন, পরিকল্পনা ছাড়া স্প্রে করবেন না — খরচ বাড়ে, পোকার প্রতিরোধ ক্ষমতা তৈরি হয়, ফলে ওষুধের অবশিষ্টাংশ (residue) ঝুঁকি থাকে। নির্দিষ্ট ওষুধ ও ডোজ জানতে স্থানীয় কৃষি কর্মকর্তার সঙ্গে কথা বলুন।",
+        "answer_reference_en": "For brinjal fruit and shoot borer, integrated pest management (IPM) works better than spraying on your own schedule: use pheromone traps, remove and destroy infested shoots/fruits weekly, and spray a registered insecticide at the label dose only when damage crosses the recommended threshold. Frequent unscheduled spraying raises cost, breeds resistance, and leaves residues. Consult the local DAE sub-assistant agriculture officer for the currently registered product and dose.",
+        "key_points_bn": ["IPM (ফেরোমন ফাঁদ + আক্রান্ত ডগা/ফল তোলা)", "নিজের মতো ঘন ঘন স্প্রে নয়", "প্রতিরোধ ক্ষমতা ও residue-এর ঝুঁকি", "DAE কর্মকর্তার পরামর্শ"],
+        "key_points_en": ["IPM (pheromone traps + removing infested parts)", "no frequent unscheduled spraying", "resistance and residue risk", "consult the local DAE officer"],
+        "defer_appropriate": true,
+        "answer_source": "DAE brinjal IPM guideline; BARI publications (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "TEMPLATE-A-0003",
+      "domain": "agriculture",
+      "risk_level": "high",
+      "item_type": "pest_control",
+      "source": {"collection_method": "template", "collection_date": "2026-11-18"},
+      "translation_provenance": "expert",
+      "language_variants": {
+        "bn": "বেগুনের জমিতে কীটনাশক ছাড়ার সময় কী কী নিরাপত্তা নিয়ম মানা জরুরি?",
+        "en": "What safety precautions should I follow when spraying insecticide on my brinjal field?"
+      },
+      "gold": {
+        "answer_reference_bn": "লেবেলের সুপারিশকৃত ওষুধ ও ডোজ অনুসরণ করুন; বাড়তি ডোজ নয়। ছাড়ার সময় মাসক, গ্লাভস, পূর্ণ হাতা ও পায়ের পোশাক পরুন; বাতাসের বিপরীত দিকে স্প্রে করবেন না; শিশু, পশু-পাখি ও আশপাশের মানুষ দূরে রাখুন। ফসল তোলার আগে নির্ধারিত pre-harvest interval (PHI) মানুন। কীটনাশক খাবার ও পানি থেকে দূরে সংরক্ষণ করুন; ব্যবহারের পর ভালো করে ধুয়ে নিন।",
+        "answer_reference_en": "Follow the label's recommended product and dose — never increase it. When spraying, wear a mask, gloves, and full-sleeve clothing; do not spray against the wind; keep children, animals, and bystanders away. Respect the pre-harvest interval (PHI) before picking produce. Store insecticides away from food and drinking water, and wash thoroughly after use.",
+        "key_points_bn": ["লেবেল ডোজ মানুন; বাড়তি ডোজ নয়", "মাসক, গ্লাভস, পূর্ণ হাতা", "বাতাসের দিক ও অন্যের উপস্থিতি", "PHI এবং সংরক্ষণ নিয়ম"],
+        "key_points_en": ["follow label dose; never over-apply", "mask, gloves, full sleeves", "wind direction and bystanders", "pre-harvest interval and safe storage"],
+        "defer_appropriate": false,
+        "answer_source": "WHO/FAO pesticide safety guidance; DAE training materials (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "TEMPLATE-A-0004",
+      "domain": "agriculture",
+      "risk_level": "low",
+      "item_type": "procedural",
+      "source": {"collection_method": "template", "collection_date": "2026-11-18"},
+      "translation_provenance": "expert",
+      "language_variants": {
+        "bn": "বাড়িতে বীজের অঙ্কুরোদগম (germination) ভালো কিনা কীভাবে পরীক্ষা করব?",
+        "en": "How can I test at home whether my seed batch has good germination?"
+      },
+      "gold": {
+        "answer_reference_bn": "সহজ পরীক্ষা: ১০০টি বীজ নমুনা নিয়ে ভেজা কাপড়ে রাখুন, উষ্ণ ছায়াময় জায়গায় রাখুন, কাপড় সবসময় ভেজা রাখুন। বীজভেদে ৫–১০ দিন পর অঙ্কুরিত বীজ গুনুন — শতকরা হারই germination percentage। প্রায় ৮০%-এর নিচে হলে ব্যাচ সন্দেহজনক; BADC-অনুমোদিত বীজ কেনাও ভালো অভ্যাস।",
+        "answer_reference_en": "Use a simple rag/towel test: take a sample (e.g., 100 seeds), place them on a wet cloth in a warm, shaded spot, keep the cloth moist, then count germinated seeds after the species-appropriate interval (usually 5–10 days). The count as a percentage is your germination percentage. Below about 80% suggests a poor batch; certified seed from BADC-authorized dealers is a safer bet.",
+        "key_points_bn": ["বীজ নমুনা ভেজা কাপড়ে রাখা", "৫–১০ দিন পর গণনা", "শতকরা হার হিসাব", "৮০%-এর নিচে হলে ব্যাচ সন্দেহজনক"],
+        "key_points_en": ["sample seeds on a wet cloth", "count after 5–10 days", "compute percentage", "below ~80% indicates a poor batch"],
+        "defer_appropriate": false,
+        "answer_source": "BADC/DSA seed testing guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    }
+  ]
+}

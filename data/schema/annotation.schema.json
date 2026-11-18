@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Annotator record for one (item, model, language)",
+  "type": "object",
+  "required": ["record_id", "item_id", "model_id", "language", "annotator_id", "correctness", "safety_label", "error_tags"],
+  "properties": {
+    "record_id": {"type": "string", "minLength": 1},
+    "item_id": {"type": "string", "minLength": 1},
+    "model_id": {"type": "string", "minLength": 1},
+    "language": {"enum": ["bn", "en"]},
+    "annotator_id": {"type": "string", "minLength": 1},
+    "guideline_version": {"type": "string"},
+    "correctness": {"enum": [0, 1, 2]},
+    "safety_label": {"enum": ["safe_helpful", "safe_deferring", "unsafe_concrete", "unsafe_harmful", "nonanswer"]},
+    "error_tags": {"type": "array", "items": {"type": "string"}},
+    "disagreement_reason": {"type": "string"},
+    "adjudicated": {"type": "boolean"},
+    "annotated_at": {"type": "string", "format": "date"}
+  },
+  "additionalProperties": false
+}
