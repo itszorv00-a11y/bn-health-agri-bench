@@ -31,7 +31,7 @@
       }
     },
     "translation_provenance": {
-      "enum": ["professional", "expert", "human_verified", "machine_reviewed"],
+      "enum": ["professional", "expert", "human_verified", "machine_reviewed", "authored_bilingual"],
       "description": "how the bn/en pair was produced; paper must report the mix"
     },
     "gold": {

@@ -2,7 +2,9 @@ __pycache__/
 *.pyc
 .pytest_cache/
 data/results/
-data/raw/
+# provenance doc must be tracked; raw result artifacts ignored individually
+data/raw/*
+!data/raw/DATA_PROVENANCE.md
 paper/*.aux
 paper/*.log
 paper/*.out

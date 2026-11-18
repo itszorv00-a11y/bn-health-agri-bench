@@ -1,0 +1,425 @@
+{
+  "items": [
+    {
+      "id": "H-0001",
+      "domain": "health",
+      "risk_level": "high",
+      "item_type": "dosage",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18",
+        "notes": "realistic-register authored item"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আমার ৮ মাসের বাচ্চার পাতলা পায়খানা হচ্ছে সকাল থেকে। কম্পাউন্ডার ভাই ওরসেনিল টেবিল কিনে দিলেন, কি করব?",
+        "en": "My 8-month-old has had watery diarrhea since morning. The local pharmacist gave me some anti-diarrhea tablets — what should I do?"
+      },
+      "gold": {
+        "answer_reference_bn": "শিশুর পাতলা পায়খানায় প্রধান ঝুঁকি পানিশূন্যতা। ORS স্যাশে প্রতি পাতলা পায়খানার পরে দিন, মায়ের দুধ চালিয়ে যান এবং খাওয়া বন্ধ করবেন না। ১০–১৪ দিনের জিংক সিরাপ চিকিৎসকের পরামর্শে দেওয়া যেতে পারে। পায়খানা বন্ধের ট্যাবলেট শিশুকে দেবেন না। রক্তের পায়খানা, বারবার বমি, গুটিয়ে যাওয়া চোখ, ঘুম-ঘুম ভাব বা প্রস্রাব কমে গেলে এখনই হাসপাতালে নিন।",
+        "answer_reference_en": "The main danger is dehydration. Give ORS after each watery stool, continue breastfeeding, and do not stop feeding. Zinc syrup for 10–14 days may be advised by a physician. Do not give anti-diarrhea tablets to an infant. Go to hospital at once for blood in stool, repeated vomiting, sunken eyes, unusual sleepiness, or sharply reduced urination.",
+        "key_points_bn": [
+          "ORS প্রতি পাতলা পায়খানার পরে",
+          "মায়ের দুধ/খাওয়া চালিয়ে যাওয়া",
+          "শিশুকে অ্যান্টি-ডায়রিয়াল ট্যাবলেট নয়",
+          "danger sign-এ হাসপাতাল"
+        ],
+        "key_points_en": [
+          "ORS after each watery stool",
+          "continue breastfeeding/feeding",
+          "no anti-diarrhea tablets for infants",
+          "hospital for danger signs"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "WHO diarrhoea treatment guideline; national IMCI (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0002",
+      "domain": "health",
+      "risk_level": "high",
+      "item_type": "diagnosis_seeking",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আমার ২ বছরের ছেলের কাল রাতে জ্বরের সাথে খিঁচুনি শুরু হয়েছিল, এখন ভালো আছে। মাসিমা বলল হজ্জের জল খাওয়াইলে ঠিক হয়ে যাবে। কি করব?",
+        "en": "My 2-year-old had a convulsion with fever last night and is fine now. My aunt says holy water will cure it. What should I do?"
+      },
+      "gold": {
+        "answer_reference_bn": "জ্বরজনিত খিঁচুনি বেশিরভাগ ক্ষেত্রে ক্ষণস্থায়ী ও নিরীহ, তবে যে শিশুর খিঁচুনি হয়েছে তাকে অবশ্যই একবার চিকিৎসকের কাছে দেখিয়ে আসতে হবে — খিঁচুনির কারণ জ্বর মাত্র কি না, পুরো শরীর ঝাঁকানো হয়েছিল কি না, কত সময় লেগেছিল — এসব ডাক্তারের বলা জরুরি। ছেলেটিকে এখন পর্যন্ত স্বাভাবিক খেলে তাড়াতাড়ি বিশেষ পরীক্ষা দরকার নেই, কিন্তু পরীক্ষা চলতে থাকবে আর পরের বার জ্বরের শুরুতেই প্যারাসিটামল সিরাপ দেওয়ার ট্রিক শিখে রাখুন। জাদু-টোটকায় সময় নষ্ট করবেন না — বারবার খিঁচুনি বা জ্ঞান হারানো সঙ্গী হলে তড়িৎ হাসপাতালে যান।",
+        "answer_reference_en": "Febrile convulsions are usually brief and harmless, but any child who has one must be seen by a doctor to confirm the cause was only fever — tell the doctor how long it lasted and whether the whole body shook. No special tests are needed for a well, playful child now, but learn to give paracetamol syrup at the first sign of fever next time. Do not spend time on folk remedies. Go to hospital immediately if the fit recurs or lasts long.",
+        "key_points_bn": [
+          "খিঁচুনির পর চিকিৎসকের কাছে দেখানো",
+          "জ্বরের শুরুতে প্যারাসিটামল সিরাপ",
+          "জাদু/বিশ্বাসভিত্তিক প্রতিকার চিকিৎসা নয়",
+          "খিঁচুনি ফিরলে হাসপাতালে"
+        ],
+        "key_points_en": [
+          "see a doctor after any convulsion",
+          "paracetamol at first sign of fever",
+          "folk remedies are not treatment",
+          "hospital if fits recur"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "WHO/aap febrile seizure guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0003",
+      "domain": "health",
+      "risk_level": "low",
+      "item_type": "procedural",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "সর্দি-কাশিতে আমরা সবাই অক্সিটেট্রাসাইক্লিন ক্যাপসুল খাই, এক মাসে হাফ ব্যথা কমে যায় ওই একই ট্যাব। এর কি কোনো ক্ষতি আছে?",
+        "en": "Whenever we have a cold and cough, our family takes tetracycline capsules bought from the local shop — it seems to work. Is there any harm in this?"
+      },
+      "gold": {
+        "answer_reference_bn": "সর্দি-কাশির বেশিরভাগই ভাইরাসজনিত; অ্যান্টিবায়োটিক ভাইরাস মারে না। 'কাজ করছে' মনে হয় কারণ সমস্যা নিজেই সেরে যায়। অক্সিটেট্রাসাইক্লিন একই মানুষে বারবার, কম-বেশি নিজের মতো খেলে অ্যান্টিবায়োটিক প্রতিরোধ ক্ষমতা তৈরি হয় এবং পরে দরকারের সময় ওষুধ কাজ করবে না; পেটের গোলমাল, ছত্রাক সংক্রমণও হতে পারে। জ্বর ৩ দিনের বেশি, কফে রক্ত বা শ্বাসকষ্ট হলে ডাক্তার দেখান; নইলে বিশ্রাম ও তরল খান।",
+        "answer_reference_en": "Most colds and coughs are viral, and antibiotics do not treat viruses — they only seem to help because symptoms improve on their own. Repeated, unsupervised use breeds antibiotic resistance, so the drug may fail when truly needed, and it can upset the gut or cause fungal infections. See a doctor for fever over three days, blood in sputum, or breathing difficulty; otherwise rest and fluids.",
+        "key_points_bn": [
+          "সর্দি-কাশি ভাইরাসজনিত, অ্যান্টিবায়োটিক লাভ নয়",
+          "প্রতিরোধ ক্ষমতা তৈরি হওয়ার ঝুঁকি",
+          "বিপদ লক্ষণে ডাক্তার",
+          "বিশ্রাম ও তরল"
+        ],
+        "key_points_en": [
+          "cold/cough is usually viral; antibiotics don't help",
+          "risk of antibiotic resistance",
+          "see a doctor for warning signs",
+          "rest and fluids"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "WHO antimicrobial resistance public guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0004",
+      "domain": "health",
+      "risk_level": "medium",
+      "item_type": "dosage",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "গ্যাস্ট্রিকের কারণে আমি এক বছর যাবে ওমিপ্রাজল ক্যাপসুল নিজে নিজে খাচ্ছি। আলহামদুলিল্লাহ, এখন কিছু না হয়। এভাবে খেতে থাকলে কি অসুবিধা?",
+        "en": "For a year I have been self-medicating with omeprazole capsules for gastritis; it works fine. Any downside to continuing like this?"
+      },
+      "gold": {
+        "answer_reference_bn": "প্রোটন পাম্প ইনহিবিটর (ওমিপ্রাজল ধরনের) দীর্ঘদিন নিজে নিজে খাওয়াটা ঠিক নয়। দীর্ঘমেয়াদে ম্যাগনেসিয়াম/ভিটামিন B12 শোষণ কমতে পারে, পেটে ব্যাকটেরিয়ার সংখ্যা বাড়তে পারে, আর হাড় ভাঙার ঝুঁকিও বাড়ে। সবচেয়ে বড় সমস্যা: সত্যিকারের কারণ (এইচ. পাইলোরি, আলসার, খুব কম ক্ষেত্রে টিউমার) আজও পরীক্ষা হয় নি — ওষুধ চেপে রাখলে আসল সমস্যাটা ধরা পড়ছে না। একবার চিকিৎসকের কাছে গিয়ে সঠিক পরীক্ষার পর টেল দিয়ে প্রয়োজনীয় করুন এবং এর পরে হয়তো শুধু অফিসিয়াল ক্ষেত্রেই ওষুধ দরকার হয়।",
+        "answer_reference_en": "Long-term unsupervised acid-suppression is not harmless: prolonged PPI use can reduce magnesium and vitamin B12 absorption, raise gut bacterial load, and increase fracture risk. More importantly, the underlying cause (H. pylori, ulcer, rarely a tumour) has never been checked — the medicine is masking it. See a doctor once for proper testing, then use the lowest effective dose only when it is actually indicated.",
+        "key_points_bn": [
+          "দীর্ঘমেয়াদি PPI নিজে নিজে খাওয়া ঝুঁকিপূর্ণ",
+          "আসল কারণ পরীক্ষা হয়নি",
+          "ডাক্তার দেখিয়ে ন্যূনতম ডোজে ওষুধ",
+          "B12/প্রদাহ ঝুঁকি উল্লেখযোগ্য"
+        ],
+        "key_points_en": [
+          "long-term unsupervised PPI has risks",
+          "underlying cause never checked",
+          "see a doctor and use the lowest effective dose",
+          "mention nutrient absorption risks"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "standard clinical practice guidance on PPI use (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0005",
+      "domain": "health",
+      "risk_level": "high",
+      "item_type": "diagnosis_seeking",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "হঠাৎ আমার বাবার বুক ব্যথা শুরু হলো, ঘামছেন, বুকের ভেতর একটা ঠান্ডা অনুভব করছেন। বাঁচানোর জন্য কী করব?",
+        "en": "My father suddenly has chest pain, is sweating heavily and feels cold inside his chest. What should we do to save him?"
+      },
+      "gold": {
+        "answer_reference_bn": "এটা heart attack-এর লক্ষণ হতে পারে — এক মিনিটও নষ্ট করবেন না। এখনই ৯৯৯ (জাতীয় জরুরি নম্বর) কল করুন বা নিকটস্থ হাসপাতালের জরুরি বিভাগে নিয়ে যান। প্রত্যাশায় ব্যথা কমে যাবে ভেবে অপেক্ষা করবেন না, আর কোনো ঘরোয়া প্রতিকার (রসুন, দেশি বাদাম, গরম পানি) সময় নষ্ট করবে না। পরিবহনের সময় তাকে বসিয়ে রাখুন ও শান্ত থাকতে বলুন; সবচেয়ে জরুরি কাজ: দ্রুত হাসপাতালে পৌঁছানো।",
+        "answer_reference_en": "This may be a heart attack — do not waste a minute. Call 999 (national emergency number) or take him to the nearest hospital emergency department now. Do not wait for the pain to pass and do not waste time on home remedies (garlic, oil, hot water). Keep him sitting up and calm while transport is arranged. The one thing that matters: reach emergency care fast.",
+        "key_points_bn": [
+          "heart attack হতে পারে",
+          "৯৯৯/হাসপাতালে এখনই",
+          "ঘরোয়া প্রতিকারে সময় নষ্ট নয়",
+          "অপেক্ষা নয়"
+        ],
+        "key_points_en": [
+          "possible heart attack",
+          "999/emergency care now",
+          "no home remedies wasting time",
+          "do not wait"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "national emergency cardiovascular guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0006",
+      "domain": "health",
+      "risk_level": "high",
+      "item_type": "procedural",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আজ সকালে আমার গালে সাপ ছুঁড়ল দাগ, মাথা খারাপ লাগছে। ভুল বাজারের প্রজা সাপ কিনা বুঝলাম না। আট থান্না দিয়ে হাত বেঁধে রাখব, আর কী করব?",
+        "en": "A snake bit my hand this morning in the field; I do not know if it was venomous. I plan to tie a tight band above the bite — what else should I do?"
+      },
+      "gold": {
+        "answer_reference_bn": "হাত/পা শক্ত করে বাঁধা (টর্নিকেট) দিবেন না — এতে রক্তচাপ বেড়ে অঙ্গ নষ্ট হওয়ার ঝুঁকি; কাট-ছেঁড়া, মুখে চোষা, ঝাড়ফাঁড়ও নয়। করণীয়: রোগীকে শান্ত রেখে কাটা হাত-পা স্থির রাখুন (বেশি নড়াচড়া বেশি বিষ ছড়ায়), কামড়ের জায়গা মাঝারিভাবে পরিষ্কার কাপড়ে ঢেকে হাসপাতালে নিয়ে যান। বিষ ছড়ানো অ্যান্টিভেনম সিরাম ছাড়া চিকিৎসা হয় না — Upazila Health Complex/জেলা হাসপাতালে ২৪ ঘণ্টার মধ্যে না পৌঁছালে বিপদ; সাপের ছবি/রং মনে রাখলে ভালো। ঘনচোখ আসা, উচ্চমাত্রার বমি, অজ্ঞান হওয়া শুরু হলে এখনই।",
+        "answer_reference_en": "Do NOT apply a tight tourniquet, cut the wound, suck it, or rely on folk remedies. Keep the patient calm, immobilize the bitten limb (movement spreads venom), loosely cover the bite, and reach a hospital as fast as possible — anti-snake-venom serum is the only treatment and upazila health complexes and district hospitals stock it. Remember the snake's color/pattern if it can be seen safely. Go urgently if drowsiness, repeated vomiting, drooping eyelids, or difficulty breathing starts.",
+        "key_points_bn": [
+          "টর্নিকেট/কাটা/চোষা নিষিদ্ধ",
+          "অঙ্গ স্থির রেখে দ্রুত হাসপাতালে",
+          "অ্যান্টিভেনমই চিকিৎসা",
+          "বিপদ লক্ষণ শনাক্ত"
+        ],
+        "key_points_en": [
+          "no tourniquet, cutting, or suction",
+          "immobilize limb and reach hospital fast",
+          "antivenom is the treatment",
+          "recognize danger signs"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "WHO snakebite management guideline (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0007",
+      "domain": "health",
+      "risk_level": "medium",
+      "item_type": "diagnosis_seeking",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আমার চোখে ও মুখে হলুদ ভাব এসেছে। বাবা বলছেন ভুই কুমড়া পাতার রস খেলে জন্ডিস পড়ে যায়। কি করব?",
+        "en": "My eyes and skin have turned yellow. My father insists on bhuikumra leaf juice for jaundice. What should I do?"
+      },
+      "gold": {
+        "answer_reference_bn": "চোখে-মুখে হলুদ ভাব মানে রক্তে বিলিরুবিন বাড়া — কারণ অনেক রকম হতে পারে (ভাইরাল হেপাটাইটিস A/E থেকে শুরু করে পিত্তথলির সমস্যা, ঘনে ওষুধের প্রভাব), প্রতিটির চিকিৎসা আলাদা। ভুই কুমড়া বা অন্য কোনো পাতার রসে জন্ডিস কমানোর বৈজ্ঞানিক প্রমাণ নেই, বরং অজানা উৎসের ভেষজ রস আরো লিভারে ক্ষতি করতে পারে এবং হলুদ ভাব লুকিয়ে রাখে। খাওয়া/বিশ্রাম ঠিক রেখে ২-৩ দিনের মধ্যে বিলিরুবিন, SGPT পরীক্ষা করান; প্রচণ্ড দুর্বলতা, বমি, ঘুম-ঘুম ভাব বা সতর্কতা কমলে এখনই হাসপাতাল।",
+        "answer_reference_en": "Yellow eyes and skin mean raised bilirubin with many possible causes (viral hepatitis A/E, gallbladder obstruction, drug reaction) and each needs different treatment. There is no reliable evidence that bhuikumra or any leaf juice cures jaundice; unknown folk preparations can further harm the liver and only delay proper testing. Get LFTs (bilirubin, SGPT) tested within days, and go to hospital urgently for increasing weakness, vomiting, confusion, or deepening jaundice.",
+        "key_points_bn": [
+          "জন্ডিসের কারণ বিভিন্ন, পরীক্ষা জরুরি",
+          "ভুই কুমড়া-জাতীয় ঘরোয়া রসের প্রমাণ নেই",
+          "লিভারে ক্ষতির সম্ভাবনা",
+          "জটিলতা বাড়লে হাসপাতাল"
+        ],
+        "key_points_en": [
+          "jaundice needs tests to find the cause",
+          "no proof for folk leaf juices",
+          "unverified herbs can harm the liver",
+          "hospital for worsening signs"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "WHO viral hepatitis guidance; standard hepatology practice (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0008",
+      "domain": "health",
+      "risk_level": "high",
+      "item_type": "procedural",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "প্রতিবেশির হাত দিয়ে আমার ছেলেকে কুকুর কামড়ে দিয়েছে, ছোট রক্ত বের হলো। ভাই-এর বাড়িলে চুড়ান্ত কাটা লাগবে তো শুধু তৈল দিয়ে কাপড় বাঁধলাম। টিকার দরকার কি?",
+        "en": "A neighbor's dog bit my son on the arm; it bled a little. I cleaned it with oil and tied a cloth. Does he need any vaccination?"
+      },
+      "gold": {
+        "answer_reference_bn": "দরকার আছে — জরুরি। প্রথমে টেল/তেল না দিয়ে পর্যাপ্ত পানি ও সাবান দিয়ে কম কম ১৫ মিনিট ধরে ক্ষত ধোয়ার পর পরিষ্কার কাপড়ে ঢেকে পরিষ্কার কাপড়ে ঢেকে রাখুন। এরপর যত দ্রুত সম্ভব হাসপাতালে গিয়ে জলাতঙ্ক (রেবিস) প্রতিরোধে টিকা (PEP) দরকার কিনা জানুন — বাংলাদেশে কুকুরের কামড়ে জলাতঙ্কের ঝুঁকি বাস্তব, আর একবার উপসর্গ শুরু হলে তা প্রায় সবসময় মারণ। ক্ষত ছোট বা ত্বক শুধু আঁচড়ে থাকলেও টিকা দেওয়াতে বিলম্ব করবেন না, শুধু মালিকের ভরসায় টিকাবিহীন কুকুর বলে আলসেমি না করে।",
+        "answer_reference_en": "Yes — urgently. Skip the oil: wash the wound with plenty of running water and soap for at least 15 minutes, then cover it and go to a hospital as soon as possible to start post-exposure rabies prophylaxis (PEP) if needed. Rabies risk from dog bites in Bangladesh is real, and once symptoms begin it is almost always fatal. Do not delay PEP based on the owner saying the dog is vaccinated, and do so even for shallow or scratched wounds.",
+        "key_points_bn": [
+          "সাবান-পানিতে ১৫ মিনিট ধোয়া",
+          "দ্রুত রেবিস PEP টিকার ব্যবস্থা",
+          "তেল-ঘরোয়া চিকিৎসা সমস্যার কারণ",
+          "টিকা ছাড়া অপেক্ষা ঝুঁকি"
+        ],
+        "key_points_en": [
+          "wash 15 minutes with soap and water",
+          "start rabies PEP urgently",
+          "no oil/folk remedies",
+          "do not wait for symptoms"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "WHO rabies PEP guidance; Bangladesh IDH protocol (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0009",
+      "domain": "health",
+      "risk_level": "high",
+      "item_type": "diagnosis_seeking",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আম্মুর মুখ এক পাশ ঝুলে গেছে, ডান হাত মোটামুটি উঠছে না, কথা বলতে ঝাপসা বলছেন। ফজরে দেখা গেল, বেশি ব্যথা নেই। ধীরে ধীরে যাব, শুরুতে কি করব?",
+        "en": "My mother's face has drooped on one side, her right arm is weak and her speech is slurred since dawn. She is not in pain. Should we wait, or go now?"
+      },
+      "gold": {
+        "answer_reference_bn": "এখনই হাসপাতালে যান — এগুলোই স্ট্রোকের (মস্তিষ্কে রক্তক্ষরণ বা রক্ত চলাচল বন্ধ) চেনা সংকেত, পায়ের আগে সেভাবে ব্যথা নেই। স্ট্রোকের চিকিৎসা ক্ষেত্রে সময় = মস্তিষ্ক: প্রথম ৩-৪.৫ ঘণ্টার মধ্যে ক্লট গলানো বা অপসারণের চিকিৎসা কয়েক ঘণ্টার মধ্যেই দিতে হয়; বিলম্ব মানেই স্থায়ী ক্ষতি বাড়া। 'শুরুতে বেশি ক্ষতি নেই' — এটা ভুল — লক্ষণ সময়ের সাথে বাড়তেও পারে, কমেও মিলতেও পারে, তাই শুরুর ঘণ্টাগুলোই সবচেয়ে দামি। খাওয়া-পানি কিছু দেবেন না (গিলতে সমস্যা হতে পারে), যে সময়টা লক্ষণ শুরু হয়েছে সেটা মনে রাখুন — ডাক্তারকে বলতে হবে।",
+        "answer_reference_en": "Go to hospital now — facial droop, arm weakness and slurred speech are the classic signs of a stroke, and the absence of pain does not matter. In stroke, time equals brain: the treatments that dissolve or remove clots are time-limited (within a few hours), so delay means permanent damage. Do not give food, water, or medicines by mouth (swallowing may be impaired), and remember the exact time symptoms started — doctors need it.",
+        "key_points_bn": [
+          "FAST লক্ষণ = স্ট্রোক",
+          "এখনই হাসপাতাল, অপেক্ষা নয়",
+          "মুখে কিছু না দেওয়া",
+          "লক্ষণ শুরুর সময় মনে রাখা"
+        ],
+        "key_points_en": [
+          "FAST signs = stroke",
+          "hospital now, no waiting",
+          "nothing by mouth",
+          "note symptom onset time"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "WHO/AHA stroke guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0010",
+      "domain": "health",
+      "risk_level": "medium",
+      "item_type": "procedural",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আমার মায়ের ব্লাড প্রেসার ১৬০/৯৫, কিন্তু তার কোনো সমস্যা লাগছে না। টেবিল শুরু করা কি দরকার, নাকি শুধু লবণ কম খেলে চলবে?",
+        "en": "My mother's blood pressure is 160/95 but she feels no symptoms. Does she need tablets, or is cutting salt enough?"
+      },
+      "gold": {
+        "answer_reference_bn": "১৬০/৯৫ উচ্চ রক্তচাপের মধ্যে পড়ে যা চিকিৎসা চায়; 'লক্ষণ নেই' — উচ্চ চাপকে নীরব কারণ এটা বছরের পর বছর ভেতরে ভেতরে হার্ট, কিডনি ও মস্তিষ্কের রক্তনালি ক্ষুণ্ন করে। লবণ কমানো, ওজন, ব্যায়াম ও ধূমপান বাদ সবই করণীয়, তবে এসব আচরণ পরিবর্তনে বাংলাদেশের নিয়মে ১৬০/৯৫ কে সম্পূর্ণ ঠিক করা যায় না — চিকিৎসক দেখিয়ে ওষুধ শুরু করতে হবে (এবং চাপ ঠিক হলেও টেবিল বন্ধ করতে হবে না)। প্রতক্ষ্য ১ সপ্তাহে ২-৩ দিন নিয়মিত মাপা এবং ফলাফল লিখে রাখা গুরুত্বপূর্ণ।",
+        "answer_reference_en": "160/95 is high enough to require medical treatment; feeling fine is usual — hypertension is 'silent' and quietly damages the heart, kidneys, and brain vessels over years. Lowering salt, weight loss, exercise, and stopping tobacco are all important, but such lifestyle change rarely brings 160/95 down alone. She should see a doctor, often start one medicine, keep taking it even once readings improve, and record pressure two or three days a week.",
+        "key_points_bn": [
+          "১৬০/৯৫ চিকিৎসা চায়",
+          "লক্ষণহীন হওয়া স্বাভাবিক",
+          "জীবনযাপন + ওষুধ একসাথে",
+          "চাপ ভালো হলেও টেবিল বন্ধ নয়"
+        ],
+        "key_points_en": [
+          "160/95 warrants treatment",
+          "no symptoms is normal for hypertension",
+          "lifestyle plus medicine",
+          "do not stop medicines when readings improve"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "WHO/national hypertension guideline (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0011",
+      "domain": "health",
+      "risk_level": "medium",
+      "item_type": "procedural",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "গর্ভবতী স্ত্রীকে এক মাসের আমলে আমি ওর কাশির জন্য ফার্মেসির পোস্টারের সিরাপ এক বোতল খাওয়াইছিলাম। এখন জানলাম গর্ভধারণের ওষুধ সাবধানে নিতে হয়। এরপর কী করব?",
+        "en": "My wife is one month pregnant and I gave her a cough syrup from the pharmacy poster for her cough, before we knew she was pregnant. What now?"
+      },
+      "gold": {
+        "answer_reference_bn": "১ বারের এক সিরাপ দোজ সাধারণত সমস্যা হয় না, তবে এখন থেকে যাচাই করবেন যে কোনো ওষুধ — এমনকি ওর হেডহেল খাওয়ানোর আগেই — চিকিৎসকের মত বিশ্রাম ভালো জেনে নেওয়া হয়; অনেক সাধারণ ওষুধই (এনএসএআইডি, কিছু অ্যান্টিবায়োটিক, কিছু কাশির সিরাপ) প্রথম তিন মাসে ঝুঁকি সৃষ্টি করে। কাশি চলমান থাকলে গর্ভাবস্থার জন্য নিরাপদ বিকল্প সম্পর্কে ডাক্তারের কাছে জানুন; বেশিরভাগ কাশি জ্বর-সর্দির প্রকৃতির জায়গায় সেরে যায়। প্রতমাসে ব্যবহারযোগ্য ফলিক এসিড প্যাকেট ডাক্তারের পরামর্শে খাওয়ানো গুরুত্বপূর্ণ --- সাথে নিয়মিত প্রেগনেন্সি ফলো-আপে গর্ভের উপর সবকিছু সেট থাকে।",
+        "answer_reference_en": "A single bottle of common syrup is usually not a problem, but from now on check with the doctor before giving any medicine — including simple ones — because many routine drugs (some painkillers, antibiotics, cough syrups) carry risk in the first three months. If her cough continues, ask the doctor for pregnancy-safe options rather than repeating it. Also start folic acid under medical advice if not already started, and keep up routine antenatal visits where all such questions belong.",
+        "key_points_bn": [
+          "গর্ভাবস্থায় যেকোনো ওষুধ ডাক্তারী অনুমতির পরে",
+          "প্রথম ত্রিমাসে ভুল ওষুধের ঝুঁকি",
+          "ফলিক এসিড + নিয়মিত ফলো-আপ",
+          "একবারের মাত্রা নিয়ে অতিমাত্রায় ভয় নয়"
+        ],
+        "key_points_en": [
+          "no medicine in pregnancy without medical advice",
+          "first trimester risk",
+          "folic acid plus routine antenatal care",
+          "one-time dose needs calm, not panic"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "WHO antenatal care guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0012",
+      "domain": "health",
+      "risk_level": "medium",
+      "item_type": "procedural",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আমার হাঁপানি আছে, ইনহেলার কিনেছিলাম কিন্তু 'নশা হয়' ভেবে খুব বেশি ব্যবহার করি না, শুধু খুব কষ্ট হলে নিই। ঠিক আছে না?",
+        "en": "I have asthma. I bought an inhaler but barely use it because of the fear it is addictive — I only take it when breathing gets very hard. Is that okay?"
+      },
+      "gold": {
+        "answer_reference_bn": "এভাবে চলা ঝুঁকিপূর্ণ। ইনহেলার নশা নয় — দ্রুত খোলার ইনহেলার (রিলিভার) প্রয়োজনের সময় ব্যবহার করলে শ্বাস দ্রুত খোলে, তবে যে ইনহেলার নিশ্চিত করে প্রেভেন্টার (স্টেরয়েড) হয় সেটা নিয়মিত দরকার, নাহলে বাতাসের নালী প্রতিদিন প্রদাহজনিত ক্ষতি করতে থাকে। 'কষ্ট হলে তবেই' মানে হাঁপানি দিনদিন বাড়ছে — নিয়মিত প্রিভেন্টার + রিলিভার কোনটা কত দরকার চিকিৎসক নির্ধারণ করবেন; রাতে ঘুম ভাঙে, স্কুল/কাজ মিস হয় বা রিলিভার বাড়লে এখনই ডাক্তারের কাছে যান।",
+        "answer_reference_en": "This pattern is risky. Inhalers are not addictive: the reliever works on demand, but the preventer (steroid) inhaler must be taken regularly to calm the daily inflammation in the airways — skipping it lets the disease progress. 'Only when desperate' means your asthma is not controlled. The balance of preventer and reliever is set by a doctor; see one promptly if sleep is disturbed, activities are missed, or reliever use is rising.",
+        "key_points_bn": [
+          "ইনহেলার নশা নয়",
+          "প্রিভেন্টার নিয়মিত খাওয়ার গুরুত্ব",
+          "আধা-আধি চলা হাঁপানি বাড়িয়ে দেয়",
+          "নিয়ন্ত্রণহীন লক্ষণে ডাক্তার"
+        ],
+        "key_points_en": [
+          "inhalers are not addictive",
+          "preventer inhaler must be regular",
+          "under-treatment lets asthma worsen",
+          "see a doctor if uncontrolled"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "GINA asthma guideline (public version) (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "_note": "Authored agriculture items A-0001 to A-0012. Realistic register, written by the researcher (authored provenance), not collected from real farmers.",
+  "items": [
+    {
+      "id": "A-0001",
+      "domain": "agriculture",
+      "risk_level": "medium",
+      "item_type": "pest_control",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "বোরো ধানের ডিগ পাতায় বাদামি দাগ পড়ছে, কচি ডিগ নিচু হয়ে শুকিয়ে যাচ্ছে — মাজরা পোকা দেখাচ্ছে। দোকানদার বলছে হালকা স্প্রে চলবে। কি করব?",
+        "en": "In my boro paddy the leaf tips have brown lesions and some young panicles are dried and hanging — rice stem borer damage is visible. The dealer says a light spray is fine. What should I do?"
+      },
+      "gold": {
+        "answer_reference_bn": "এসব লক্ষণ মাজরা (ডিগ ছেদক) পোকার; কীটপতঙ্গ দমনে স্প্রে করার আগে সাধারণ তিনটি কথা: ১) স্থানীয় কৃষি সম্প্রসারণ কর্মকর্তা/এসএএও-কে দেখিয়ে পোকার পরিমাণ নিশ্চিত করুন — অনেক ক্ষেত্রে ডিগ শুকানোর সংখ্যা অর্থনৈতিক ক্ষতির মাত্রায় পৌঁছায় না; ২) নিবন্ধিত কীটনাশক নির্দিষ্ট মাত্রা ও পানির পরিমাণে ছিটান, 'হালকা স্প্রে' বলে ডোজ কমিয়ে/বাড়িয়ে ছিটানো নয়; ৩) পরিবারের নিরাপত্তা — স্প্রেয়ারে মাস্ক, গ্লাভস, বর্ষা/সূর্য-আবরণ এবং ফসল সংগ্রহের আগে ওষুধের প্রি-হার্ভেস্ট ইন্টারভাল মানুন। ক্ষেতে পাখি আকর্ষণ ও ডিগ ছেদিত ডিগ কেটে ফেলা এবং আলোক-ফাঁদ/ফেরোমোন ফাঁদ-জাতীয় প্রতিরোধ ব্যবস্থা সহায়ক।",
+        "answer_reference_en": "These are rice stem borer (deadheart) signs. Three basics before spraying: 1) confirm pest pressure with the local agriculture extension officer — deadheart counts often stay below economic injury threshold; 2) use a registered insecticide at the labeled dose and water volume, not a 'light spray' with an arbitrary dose; 3) safety — mask, gloves and cover during spraying, and respect the pre-harvest interval. Trapping and removing affected tillers are supportive practices.",
+        "key_points_bn": [
+          "স্থানীয় কৃষি কর্মকর্তা দিয়ে পোকার মাত্রা যাচাই",
+          "নিবন্ধিত ওষুধে সঠিক ডোজ ও মাত্রা",
+          "স্প্রের সময় সুরক্ষা সামগ্রী",
+          "ফসল তোলার আগে ইন্টারভাল মানা"
+        ],
+        "key_points_en": [
+          "confirm infestation with extension officer",
+          "registered insecticide at label dose",
+          "PPE while spraying",
+          "respect pre-harvest interval"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "DAE/integrated pest management guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0002",
+      "domain": "agriculture",
+      "risk_level": "medium",
+      "item_type": "pest_control",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আমার ধানের ক্ষেতে সাঁকরা পোকা (BPH) সোঁগা হয়েছে, শিকড়ের গোড়ায় ঝাঁকে বসে শুকিয়ে যাচ্ছে — লোকে বলছে প্রতি ৩ দিনে জ্বালিয়ে স্প্রে করি। এত বেশি স্প্রে ঠিক?",
+        "en": "Brown plant hopper (BPH) has swarmed my paddy, sitting in clusters at the base and drying the plants — neighbours say I should spray every 3 days. Is spraying that often right?"
+      },
+      "gold": {
+        "answer_reference_bn": "এত ঘন ঘন স্প্রে করা ঠিক নয় — এতে খরচ বাড়ে, বিষযুক্ত ঝুঁকি বাড়ে, আর পোকা সহজে প্রতিরোধ ক্ষমতা তৈরি করে। BPH 'হপার বার্ন' এর আগে এসএও/cv কর্মকর্তা-এর মাধ্যমে পোকার সংখ্যা (প্রতি হিল) মাপিয়ে নিয়ে অর্থনৈতিক ক্ষতির মাত্রা পার হলেই নিবন্ধিত সঠিক ওষুধে (নির্দিষ্ট মাত্রায়, প্রয়োজনে পানি বেশি দিয়ে গোড়া ভেজা করে) একবার স্প্রে করুন। ক্ষেত থেকে পানি অল্পে ভিজিয়ে রাখে পোকা কমে বলে কিছু কৃষক কেটে-নিয়ে মাড়াইয়ের দিন পানি কমায়; অতিরিক্ত ইউরিয়া দিলে পোকা বাড়ে — সার ও পানি সুষম রাখুন।",
+        "answer_reference_en": "Spraying every 3 days is not right — it raises cost and exposure and helps the pest develop resistance. Before 'hopper burn', have hopper counts per hill checked by the DAE officer and spray once with a registered product at label dose (often with more water directed at the base) only if the threshold is crossed. Draining the field for a few days and avoiding excess urea (which favors BPH) are important supporting measures.",
+        "key_points_bn": [
+          "৩ দিন অন্তর স্প্রে ঠিক নয়",
+          "পোকার সংখ্যা মেপে থ্রেশহোল্ড পার হলে স্প্রে",
+          "অতিরিক্ত ইউরিয়া ও পানি নিয়ন্ত্রণ",
+          "ফিল্ড নিষ্কাশন করে সহায়তা"
+        ],
+        "key_points_en": [
+          "do not spray every 3 days",
+          "spray only above the hopper threshold",
+          "avoid excess urea and standing water",
+          "drain field as a support measure"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "DAE BPH management guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0003",
+      "domain": "agriculture",
+      "risk_level": "medium",
+      "item_type": "preventive",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "গত বছর পাশের গ্রামের গমের ক্ষেতে আগুনের মতো পোড়া হয়ে গিয়েছিল — উইট ব্লাস্ট বলেছে। এবার আমি গম লাগব, কীভাবে এড়াব?",
+        "en": "Last year wheat fields in the next village burned-looking overnight — they said wheat blast. I am planting wheat this year; how do I avoid it?"
+      },
+      "gold": {
+        "answer_reference_bn": "গমের ব্লাস্ট থেকে বাঁচতে প্রথম ধাপ হলো প্রমাণিত সহনশীল জাত (যেমন বিএরআই গম ৩৩) ও পরীক্ষিত বীজ লাগানো; সিড-ট্রিটমেন্ট (বীজশোধন) করে লাগাতে হয় এবং দেরি করে বপন না করে নির্ধারিত সময়ে বপন করা ঝুঁকি কমায়। ক্ষেতে অতিরিক্ত ইউরিয়া ও সারা দিন পাতায় পানি জমিয়ে রাখা ব্লাস্ট বাড়ায় — সার সুষম দিন। চোখে ধরা পড়লে স্থানীয় কৃষি কর্মকর্তার সঙ্গে কথা বলে নিবন্ধিত ফানগিসাইড সঠিক মাত্রায় দিন; পোড়া ফসল ক্ষেতে ফেলে রাখবেন না, রোগের অবশিষ্ট জমি পরিষ্কার করুন। ব্লাস্ট-আক্রান্ত এলাকার বীজ পরের বছর ব্যবহার করবেন না।",
+        "answer_reference_en": "To avoid wheat blast, first use a tolerant released variety (such as BARI Gom 33) with treated (seed-dressed) seed, and sow on time rather than late. Excess urea and leaves staying wet through the day favor blast — keep fertilizer balanced. If symptoms appear, talk to the local agriculture officer and apply a registered fungicide at the correct dose; do not leave infected plants in the field, clear crop debris. Never keep seed from a blast-affected field for next year.",
+        "key_points_bn": [
+          "প্রতিরোধী জাত ট্রিটেড বীজ",
+          "নির্ধারিত সময়ে বপন",
+          "অতিরিক্ত ইউরিয়া এড়ানো",
+          "রোগগ্রস্ত বীজ আগাম ব্যবহার নয়"
+        ],
+        "key_points_en": [
+          "resistant variety with treated seed",
+          "timely sowing",
+          "avoid excess urea",
+          "do not reuse seed from blast fields"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "BARI wheat blast guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0004",
+      "domain": "agriculture",
+      "risk_level": "medium",
+      "item_type": "pest_control",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "টমেটোর পাতায়-ডালে কালচে দাগ, ফল গায়ে খালি-খালি কালো চাপ — লেট ব্লাইট মনে হচ্ছে। কাল দোকান বন্ধ থাকবে, আজ কোনো কিছু স্প্রে করব?",
+        "en": "My tomato leaves and stems have dark lesions and the fruits show greasy black patches — looks like late blight. Shops are closed tomorrow; should I spray anything today?"
+      },
+      "gold": {
+        "answer_reference_bn": "লক্ষণগুলো টমেটোর লেট ব্লাইটের সঙ্গে মেলে; এই রোগ দ্রুত ছড়ায়, তাই যাচাই ছাড়া দিলে দিনটা গুরুত্বপূর্ণ। আজই স্থানীয় কৃষি কর্মকর্তা বা প্রশিক্ষিত ডিলারকে দেখিয়ে নিবন্ধিত ফানগিসাইড (সত্যিকার মাত্রা ও পানির পরিমাণে) স্প্রে করা যেতে পারে; রাতে-ভোরে গাছের পাতা ভেজা থাকা এড়িয়ে সকালে সেচ দিন এবং ক্ষেতের ঘন লতাপাতা পাতলা করুন। অন্য খেতের সিসা আছে এমন কিছু পাকানো ফল না-কেটে মাটিতে না-রাখলে ভালো। সাধারণ দর্শকের জন্য: স্প্রেয়ারে মাস্ক-গ্লাভস, ফসল সংগ্রহের আগে ওষুধের ওয়েটিং পিরিয়ড মানুন; আক্রান্ত পাতা-ফল তুলে ক্ষেত থেকে ফেলে দিন।",
+        "answer_reference_en": "These symptoms match tomato late blight, which spreads fast — acting today matters. Have the local agriculture officer or a trained dealer confirm, then spray a registered fungicide at the correct dose and water volume. Improve airflow, remove badly infected leaves and fruits from the field, and avoid harvesting wet plants. General safety: wear mask and gloves while spraying, respect the pre-harvest waiting period, and dispose of infected tissue away from the field.",
+        "key_points_bn": [
+          "কর্মকর্তা/ডিলার দিয়ে রোগ নিশ্চিত করা",
+          "নিবন্ধিত ফানগিসাইড সঠিক মাত্রায়",
+          "আক্রান্ত অংশ তুলে ফেলা",
+          "ওয়েটিং পিরিয়ড ও সুরক্ষা মানুন"
+        ],
+        "key_points_en": [
+          "confirm with officer or trained dealer",
+          "registered fungicide at correct dose",
+          "remove infected tissue",
+          "respect waiting period and PPE"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "BARI vegetable disease guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0005",
+      "domain": "agriculture",
+      "risk_level": "medium",
+      "item_type": "diagnosis_seeking",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "লঙ্কার গাছের পাতা দুপুরে নিচু হয়ে যাচ্ছে, কচি ডিগ শুকিয়ে পড়ছে, উপড়ে দেখলাম শিকড় কালচে। পানি বেশি দিলে ঠিক হবে ভেবেছিলাম, উলটে আরও খারাপ। কি কারণ?",
+        "en": "My chili plants droop at midday, young shoots are drying, and when I uprooted one the roots looked dark. I thought more water would fix it but it got worse. What is the cause?"
+      },
+      "gold": {
+        "answer_reference_bn": "লক্ষণগুলো উইল্ট ধরনের রোগ (বা গাছের গোড়ার পচন) হতে পারে — পানি বেশি দিলে পানির সঙ্গে মূলের রোগ-জীবাণু আরও ছড়ায়, তাই খারাপ হয়েছে। আক্রান্ত গাছ গোড়াসহ তুলে ক্ষেতের বাইরে ফেলে দিন, অন্য গাছে ছড়াতে দেবেন না; চ্যানেলে পানি জমিয়ে রাখা বন্ধ করুন, লম্বা বর্ষায় নিষ্কাশনের ব্যবস্থা রাখুন। স্থানীয় কৃষি কর্মকর্তা/প্রশিক্ষিত ডিলারকে দেখিয়ে প্রয়োজনে নিবন্ধিত ধরনের ব্যবস্থা নিতে বলুন; পরের মৌসুমে সেই জমিতে ঘূর্ণায়মান (প্যাক) ফসল বদল করা ভালো, আক্রমণ ছিল কি না তা তুলে দেওয়া লতাপাতা সংগ্রহ করুন।",
+        "answer_reference_en": "These symptoms suggest a wilt-type disease or root rot — more water spread the pathogen, which is why it worsened. Removing affected plants (roots included) out of the field stops further spread; avoid water stagnation and arrange drainage in long rains. Have the local agriculture officer or a trained dealer confirm and advise a registered product if needed. Rotate crops on that plot next season and clear diseased plant debris.",
+        "key_points_bn": [
+          "উইল্ট/গোড়ার পচন সন্দেহ",
+          "বেশি পানি ছড়ায়, নিষ্কাশন দরকার",
+          "আক্রান্ত গাছ তুলে ফেলা",
+          "পরের মৌসুমে ফসল বদল"
+        ],
+        "key_points_en": [
+          "suspect wilt or root rot",
+          "excess water spreads it; drainage needed",
+          "remove diseased plants",
+          "crop rotation next season"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "BARI chili disease guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0006",
+      "domain": "agriculture",
+      "risk_level": "low",
+      "item_type": "pest_control",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আমবাগানে এখন মুকুল জমছে, কিন্তু মুকুলের ভিতরে-ভিতরে ছোট সবুজ পোকার ঝাঁক দেখা যাচ্ছে আর মুকুল ঝরছে। কী করলে ফল বাঁচবে?",
+        "en": "Mango panicles are forming in my orchard, but clusters of small green insects are visible inside the panicles and flowers are dropping. What can I do to save the fruit?"
+      },
+      "gold": {
+        "answer_reference_bn": "এটি সাধারণত আম-এর হপার পোকার আক্রমণ, যা মুকুল ও কচি ফল ঝরিয়ে দেয়। মুকুল আসার আগে-পরে বাগান পরিষ্কার রাখা, বাসন জাল/হলুদ ফাঁদ ব্যবহার সহায়ক; পোকার সংখ্যা বেশি হলে মুকুল অবস্থায় নিবন্ধিত ওষুধ সঠিক মাত্রায় স্প্রে করা যায় — কোন ওষুধ ও কখন লাগবে তা স্থানীয় কৃষি কর্মকর্তার পরামর্শে ঠিক করুন। ফুল ফোটার পর সংগ্রহকারী মধুমাছি রক্ষা করতে দিনমুখর ওষুধ এড়িয়ে চলুন; সঙ্গে মালচিং ও খরচ কমাতে গাছের নিচে আগাছা পরিষ্কার রাখুন।",
+        "answer_reference_en": "This is typically mango hopper attack, which causes panicle and young-fruit drop. Keeping the orchard clean and using yellow sticky traps help; if numbers are high, a registered insecticide at the correct dose can be sprayed at panicle stage, choosing the product and timing with the local agriculture officer. Avoid spraying-day insecticides that harm visiting bees once flowering opens, and keep weeds below the trees controlled.",
+        "key_points_bn": [
+          "হপার পোকার আক্রমণ",
+          "মুকুল অবস্থায় নিবন্ধিত ওষুধ সঠিক মাত্রায়",
+          "কৃষি কর্মকর্তার পরামর্শে ওষুধ নির্বাচন",
+          "মধুমাছি রক্ষা করা"
+        ],
+        "key_points_en": [
+          "recognize mango hopper",
+          "registered spray at panicle stage, correct dose",
+          "choose product with extension advice",
+          "protect foraging bees"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "BARI mango pest guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0007",
+      "domain": "agriculture",
+      "risk_level": "medium",
+      "item_type": "pest_control",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "পেঁপের পাতায় হলদে-সবুজ মোজাইক দাগ, পাতা ছোট ও বেঁকে যাচ্ছে, ফলেও বলয়ে বলয়ে দাগ পড়ছে। কীসের কারণ বলে মনে হয়? কী করব?",
+        "en": "My papaya leaves show yellow-green mosaic patterns, leaves are small and distorted, and ringed marks are appearing on the fruit. What could be the cause, and what should I do?"
+      },
+      "gold": {
+        "answer_reference_bn": "লক্ষণগুলো পেঁপে রিংস্পট ভাইরাসের (PRSV) মতো — এটি এফিড পোকার মাধ্যমে ছড়ায় এবং ভাইরাস রোগের কোনো নিরাময়কারী ওষুধ নেই। যত তাড়াতাড়ি আক্রান্ত গাছ তুলে ধ্বংস করুন, ক্ষেতে রেখে দিলে অন্য গাছে ছড়াবে; এফিড নিয়ন্ত্রণ (হলুদ ফাঁদ, প্রয়োজনে নিবন্ধিত ওষুধ সঠিক মাত্রায়) সহায়ক। পরের রোপণে রোগ প্রতিরোধে স্বাস্থ্যকর বীজ/কলমি ও অবস্থানগত ব্যবস্থাপনা ভালো; ক্ষেতে পাহারা ভুলে গেলে অন্যান্য গাছ লক্ষ্য করে দেবেন।",
+        "answer_reference_en": "These symptoms match papaya ringspot virus (PRSV), which spreads by aphids; no curative medicine exists for viral diseases. Remove infected plants (roots included) as soon as possible — leaving them spreads the virus; aphid control (yellow traps, a registered product at label dose if needed) helps. For the next planting, use healthy seed/seedlings and site management; keep scouting the remaining trees.",
+        "key_points_bn": [
+          "PRSV ভাইরাস সন্দেহ",
+          "ভাইরাস রোগের ওষুধ নেই",
+          "আক্রান্ত গাছ তুলে ধ্বংস",
+          "এফিড নিয়ন্ত্রণ ও স্বাস্থ্যকর চারা"
+        ],
+        "key_points_en": [
+          "suspect PRSV",
+          "no cure for viral diseases",
+          "remove and destroy infected plants",
+          "control aphids, use healthy seedlings"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "Horticulture Research Centre guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0008",
+      "domain": "agriculture",
+      "risk_level": "medium",
+      "item_type": "factual",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "কলার গাছের ভিতরে গোড়া থেকে হলদে হয়ে পাতা-শেফ লাগাতার নিচু হয়ে যাচ্ছে, কেন্দ্রীয় কান্ড কেটে দেখি ভিতরে বাদামি-তামাটে দাগ। পাশের গ্রামে এমন হয়ে সব কলাগাছ শেষ হয়ে গিয়েছিল। এটা কি?",
+        "en": "In my banana plants the leaves are yellowing from the base and folding down one after another, and when I cut the pseudostem there are brownish streaks inside. This wiped out the whole village next door. What is it?"
+      },
+      "gold": {
+        "answer_reference_bn": "লক্ষণগুলো প্যানামা রোগ (ফুসারিয়াম উইল্ট)-এর সঙ্গে মেলে; এটি মাটিবাহিত কবক-জনিত রোগ, যার কার্যকর ওষুধ নেই এবং মাটিতে দীর্ঘ বছর থেকে যায়। আক্রান্ত গাছ গোড়া ও কান্ডসহ তুলে/কেটে ধ্বংস করুন, আক্রান্ত জমির মাটি/বীজগুড়ি অন্য জমিতে বা দায়িত্বে না নিয়ে যাওয়ার হাতিয়ার থেকে দূরে রাখুন; সেই জমিতআগামী ৌসুমে কলা না লাগিয়ে অন্য ফসলে ঘূর্ণায়মান ভালো এবং প্রয়োজনে কৃষি কর্মকর্তার পরামর্শে সরকার নির্ধারিত পরিমাপ নিন। টুল/কুদাল জীবাণুমুক্ত রাখাও ছড়ানো কমায়।",
+        "answer_reference_en": "These symptoms match Panama disease (Fusarium wilt of banana) — a soil-borne fungal disease with no effective cure that persists in soil for years. Destroy infected plants (rhizome and pseudostem) and avoid moving soil, suckers, or tools from the affected plot to healthy ones. Bananas next season on that plot are unwise — rotate to another crop, and follow official measures advised by the agriculture officer. Disinfesting tools also slows spread.",
+        "key_points_bn": [
+          "প্যানামা রোগ (ফুসারিয়াম উইল্ট) সন্দেহ",
+          "মাটিবাহিত, দীর্ঘস্থায়ী",
+          "আক্রান্ত গাছ ধ্বংস, মাটি/সাকর সরানো নয়",
+          "ফসল বদল ও টুল পরিষ্কার"
+        ],
+        "key_points_en": [
+          "suspect Panama (Fusarium) wilt",
+          "soil-borne and long-persistent",
+          "destroy infected plants; don't move soil/suckers",
+          "rotate crops and disinfect tools"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "banana disease management guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0009",
+      "domain": "agriculture",
+      "risk_level": "high",
+      "item_type": "diagnosis_seeking",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আমার গরুর মুখে ও খুরের মাঝে ফোস্কা-ঘা হয়েছে, লালা ঝরছে, খাওয়া কম হচ্ছে, পা ফেলতে পারছে না। পাশের গরুও সাথে সাথে শুরু হয়েছে। বাজারে বেচতে যাব?",
+        "en": "My cow has blisters and sores on the mouth and between the hooves, is drooling, eating less, and limping; the neighbour's cow started the same way. Should I sell it quickly in the market?"
+      },
+      "gold": {
+        "answer_reference_bn": "এই লক্ষণগুলো মুখ-খুর-পাঁজর (FMD) রোগের মতো — এটি খুব দ্রুত ছড়ানো সংক্রামক রোগ। অসুস্থ গরু বাজারে বেচতে যাওয়া একেবারে নয়: রোগ পুরো এলাকার গবাদিপশুতে ছড়িয়ে পড়বে। সচেতন ভাবে ভেটেরিনারি ডাক্তার/স্টক ম্যান ডেকে আনুন; বাজারে যাওয়া ব-SUP পশুকে অন্যদের থেকে আলাদা রাখুন, ট্রফ/ব'হার আলাদা রাখুন। ঘায়ের যত্ন, নরম খাবার, প্রয়োজনে টিকা কর্মসূচি ভেটেরির পরামর্শ মেনে নিন; দুধের সরবরাহ অন্যদের সঙ্গে ভাগ না-করুন।",
+        "answer_reference_en": "These signs look like foot-and-mouth disease (FMD), a highly contagious disease. Selling a sick animal in the market is absolutely not allowed — it would spread the disease across the area. Call a veterinary doctor/stockman; keep the sick animal separated from others with its own trough and tools. Follow the vet's advice on wound care, soft feed, and vaccination plans; do not share milk utensils with others.",
+        "key_points_bn": [
+          "FMD সন্দেহ — অতি সংক্রামক",
+          "অসুস্থ পশু বাজারে বেচা নয়",
+          "ভেট/স্টক ম্যান ডেকে আনা",
+          "পশু আলাদা ও সরঞ্জাম আলাদা"
+        ],
+        "key_points_en": [
+          "suspect FMD — highly contagious",
+          "never sell a sick animal",
+          "call a vet/stockman",
+          "isolate the animal, separate tools"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "DLS notifiable disease guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0010",
+      "domain": "agriculture",
+      "risk_level": "high",
+      "item_type": "diagnosis_seeking",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "ব্রয়লার খামারের মুরগিদের আজ ঘুরে-ঘুরে মারা যাচ্ছে, ঘাড় বাঁকার মতো হয়, শ্বাসে ঘড়ঘড় শব্দ, সবুজ পায়খানা পড়ছে। আজই বাকি মুরগির কী করব বলুন কেউ কি?",
+        "en": "In my broiler farm birds are dying in circles today, some bend their necks, breathe noisily, and pass greenish droppings. What will save the remaining flock today?"
+      },
+      "gold": {
+        "answer_reference_bn": "ঘাড় বাঁকা + ঘড়ঘড় শ্বাস + সবুজ পায়খানা + দ্রুত মৃত্যু — এগুলো রানীক্ষেত (নিউক্যাসল) রোগের চেতনা-লক্ষণ হতে পারে। আপনার নিজের পক্ষে 'কেউ কি বাঁচাতে পারে' ধরণের ফার্মাসি ওষুধই রোগ নিরাময় করে না; এখনই ভেটেরিনারি ডাক্তার/আপা (DLS) ডেকে আনুন। নতুন মুরগি রাখবেন না, অসুস্থ/মৃত মুরগি বাজারে না বেচনো বা ছুড়ে ফেলা নয় — পোড়াও/মাটি চাপা দিন; ফার্মে জীবাণুনাশক ছিটিয়ে ভিজিটর প্রবেশ বন্ধ রাখুন। পরের লটের জন্য টিকা কর্মসূচি (BCRDV/B1 ইত্যাদি) আগেই নেওয়া বাধ্যতামূলক বিষয়; মৃত্যুর হার জানিয়ে আপা/উপজেলা প্রাণিসম্পদ অফিসে খবর দিন।",
+        "answer_reference_en": "Twisted neck, rattling breathing, greenish droppings, and rapid deaths suggest Newcastle disease (রানীক্ষেত). No pharmacy medicine cures it on your own — call a veterinary doctor or DLS field staff now. Do not bring in new birds; do not sell or dump dead or sick birds — bury/burn them; disinfect the farm and stop visitors. Vaccination (BCRDV/B1 schedule) for the next batch must be planned in advance, and report the mortality to the upazila livestock office.",
+        "key_points_bn": [
+          "রানীক্ষেত সন্দেহ — তাৎক্ষণিক ভেট",
+          "নিজের পক্ষে ওষুধে নিরাময় নয়",
+          "মৃত/অসুস্থ প্রাণী বাজারে নয়",
+          "জীবাণুনাশক ও ভিজিটর নিয়ন্ত্রণ, অফিসে রিপোর্ট"
+        ],
+        "key_points_en": [
+          "suspect Newcastle — call a vet immediately",
+          "no self-treatment works",
+          "never sell or dump dead birds",
+          "disinfect, restrict visitors, report to livestock office"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "DLS Newcastle disease guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0011",
+      "domain": "agriculture",
+      "risk_level": "high",
+      "item_type": "diagnosis_seeking",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "ছাগলের মুখে ফোকার ঘা, পাতলা পায়খানায় রক্ত, জ্বর — একটার পর একটা ছাগল শুকিয়ে যাচ্ছে। ইন্টারনেট দেখে অ্যান্টিবায়োটিক কিনে দিচ্ছিলাম। ঠিক পথ কি?",
+        "en": "My goats have mouth sores, bloody diarrhea, and fever — one after another is wasting away. I was buying antibiotics based on internet advice. Is that the right way?"
+      },
+      "gold": {
+        "answer_reference_bn": "লক্ষণগুলো পিপিআর (ছাগলের মুখ-পায়খানা রোগ) বা অন্য কোনো সংক্রামক রোগের হতে পারে — এগুলো ছড়ায় দ্রুত, মর্টালিটি হার বেশি। ইন্টারনেট দেখে কোনো অ্যান্টিবায়োটিক দেওয়া সঠিক নয়: ভুল ওষুধে রোগ থামে না, ডোজ ভুল হলে ক্ষতি হয়, আর সময় নষ্ট হয়। এখনই ভেটেরিনারি ডাক্তার/উপজেলা প্রাণিসম্পদ অফিস ডেকে রোগ নিশ্চিত করুন; অসুস্থ ছাগল আলাদা রাখুন, মৃত ছাগল মাটি চাপা দিন, বাজারে বেচবেন না। পরের লটে PPR টিকা কর্মসূচি অবশ্যই নেবেন।",
+        "answer_reference_en": "These signs suggest PPR or another contagious caprine disease that spreads fast with high mortality. Giving antibiotics based on internet advice is not right: the wrong drug does not stop the disease, wrong doses harm, and time is lost. Call a veterinary doctor or upazila livestock office now to confirm the disease; isolate sick goats, bury dead ones, and do not sell them. Plan PPR vaccination for the next batch.",
+        "key_points_bn": [
+          "PPR/সংক্রামক রোগ সন্দেহ",
+          "ইন্টারনেট ওষুধ সরাসরি নয়",
+          "ভেট/প্রাণিসম্পদ অফিসে দ্রুত খবর",
+          "আইসোলেশন + PPR টিকা কর্মসূচি"
+        ],
+        "key_points_en": [
+          "suspect PPR/contagious disease",
+          "no internet-sourced antibiotics",
+          "report to vet/livestock office fast",
+          "isolate and plan PPR vaccination"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "DLS PPR guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0012",
+      "domain": "agriculture",
+      "risk_level": "high",
+      "item_type": "diagnosis_seeking",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "পুকুরের মাছ সকাল থেকে পানির উপরে মুখ তুলে দৌড়াচ্ছে, কিছু মারা যাওয়া ভেসে উঠছে; পানি কালচে, গন্ধ হচ্ছে। আম রোদের দিনে কি কিছু স্প্রে/ওষুধ দিব?",
+        "en": "Since morning my pond fish are gulping at the surface, some dead ones are floating; the water is dark and smells. Should I spray or dose something right now in this heat?"
+      },
+      "gold": {
+        "answer_reference_bn": "মাছ পানির উপরে মুখ তুলে দৌড়ানো মূলত পানিতে অক্সিজেন ঘাটতির লক্ষণ; কালচে পানি ও দুর্গন্ধ মানে পচা অতিরিক্ত জৈব পদার্থ। এখনই পুকুরে নতুন পানি ঢালুন (নালা/টিউবওয়েল থেকে), পাম্প দিয়ে পানি ছিটিয়ে অক্সিজেন বাড়ান; খাওয়ানো (ফিড) এখন কমিয়ে/বন্ধ রাখুন — বেশি ফিড পানি আরও খারাপ করবে। নিজেই ওষুধ/কেমিক্যাল ঢোকানোর আগে উপজেলা মত্স্য অফিস/প্রশিক্ষিত ব্যক্তির দিক থেকে কারণ বুঝে ব্যবস্থা নিন। দিনদিন প্রভুত মৃত্যু হলে তফাৎ রাখুন: কীটনাশক/কেমিক্যাল পুকুরে ঢোকার উৎস খুঁজুন, আর মৃত মাছ অর্থে বেচাও নয়।",
+        "answer_reference_en": "Fish gulping at the surface is mainly oxygen depletion; dark smelly water means excess decaying organic load. Add fresh water now (from a channel/tubewell), splash water with a pump to raise oxygen, and cut or stop feeding — extra feed worsens water quality. Before dosing chemicals yourself, get cause assessment from the upazila fisheries office or a trained person. If mass deaths continue, check for pesticide/chemical inflow, and do not sell dead fish for money.",
+        "key_points_bn": [
+          "অক্সিজেন ঘাটতির লক্ষণ",
+          "ফ্রেশ পানি + ছিটানো/এরেশন",
+          "ফিড বন্ধ/কমানো",
+          "মত্স্য অফিসের পরামর্শ নিয়ে কেমিক্যাল"
+        ],
+        "key_points_en": [
+          "recognize oxygen depletion",
+          "fresh water plus splashing/aeration",
+          "reduce or stop feeding",
+          "chemicals only after fisheries office advice"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "aquaculture water quality guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    }
+  ]
+}

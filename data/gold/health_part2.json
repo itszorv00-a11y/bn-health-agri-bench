@@ -1,0 +1,389 @@
+{
+  "_note": "Authored health items H-0013 to H-0024. Realistic register, written by the researcher (authored provenance), not collected from real users.",
+  "items": [
+    {
+      "id": "H-0013",
+      "domain": "health",
+      "risk_level": "medium",
+      "item_type": "procedural",
+      "source": {"collection_method": "authored", "collection_date": "2026-11-18"},
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আমার একটা চোখ লাল, পানি পড়ছে। পরিচিত এক কাকা বললেন পরিষ্কার গোলাপজল চোখে দিলে সেরে যাবে। কি করব?",
+        "en": "One of my eyes is red and watering. A neighbour told me to put clean rose water in the eye and it will heal. What should I do?"
+      },
+      "gold": {
+        "answer_reference_bn": "এটা সম্ভবত কনজাংটিভাইটিস, যা অধিকাংশ ক্ষেত্রে ভাইরাসজনিত ও নিজে থেকে সেরে যায়। গোলাপজলসহ জীবাণুমুক্ত না এমন কোনো তরল চোখে দেওয়া ঠিক নয় — চোখে সংক্রমণ বাড়াতে পারে। বার বার হাত ধোয়া, নিজের তোয়ালে/বালিশ আলাদা রাখা দরকার, যেন পরিবারে ছড়ায় না। শীতল সেঁক জ্বালা কমাতে পারে। চোখে ব্যথা, আলোয় কষ্ট, দৃষ্টি ঝাপসা বা ৭–১০ দিনে না কমলে চক্ষু বিশেষজ্ঞের কাছে যান; নবজাতকের লাল চোখ হলে সঙ্গে সঙ্গে।",
+        "answer_reference_en": "This is likely conjunctivitis, usually viral and self-limiting. Putting rose water or any non-sterile liquid in the eye is not okay — it can worsen infection. Wash hands frequently and keep your own towel and pillow separate so it does not spread in the family. A cool compress may ease irritation. See an ophthalmologist for eye pain, light sensitivity, blurred vision, or no improvement in 7–10 days; a newborn with a red eye needs care at once.",
+        "key_points_bn": [
+          "গোলাপজল/অজীবাণুমুক্ত তরল চোখে দেওয়া নয়",
+          "হাত ধোয়া ও তোয়ালে আলাদা রাখা",
+          "সেরে যেতে সময় লাগে, সংক্রমণ ছড়ানো ঠেকানো",
+          "ব্যথা/দৃষ্টি সমস্যা হলে চক্ষু বিশেষজ্ঞ"
+        ],
+        "key_points_en": [
+          "no rose water or non-sterile liquids in the eye",
+          "hand washing and separate towels prevent spread",
+          "self-limiting but contagious",
+          "ophthalmologist for pain or vision problems"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "standard ophthalmology patient guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0014",
+      "domain": "health",
+      "risk_level": "high",
+      "item_type": "procedural",
+      "source": {"collection_method": "authored", "collection_date": "2026-11-18"},
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "রান্নাঘরে গরম স্যুপ হাতে ছিটকে পুড়েছে। কেউ বলল টুথপেস্ট লাগালে জ্বালা কমে, আমি লাগিয়ে ফেললাম। এখন আমি কি করব?",
+        "en": "I spilled hot soup on my hand while cooking. Someone said toothpaste relieves the burn, so I applied it. What should I do now?"
+      },
+      "gold": {
+        "answer_reference_bn": "প্রথমে টুথপেস্ট ধুয়ে ফেলুন, তারপর ক্ষতস্থান ১০–২০ মিনিট ঠান্ডা পানির নিচে ধরে রাখুন। টুথপেস্ট, তেল, ঘি, বরফ বা জ্বালানোর পেস্ট কিছুই পোড়া ক্ষতে নয় — সংক্রমণ ও গভীরে পোড়ার ঝুঁকি বাড়ায়। আঙুলের আংটি আগে খুলে ফেলুন, পরে ফোলা হলে নামাতে কষ্ট হয়। পরিষ্কার ঢিলা কাপড় দিয়ে ঢেকে দিন। পুড়ে গেল অংশ বড়, ফোস্কা বেশি, মুখ/চোখ/জেনিটাল-এর কাছে বা শিশুর হলে হাসপাতালে যান; ফোস্কা ফোটাবেন না।",
+        "answer_reference_en": "First wash the toothpaste off, then hold the area under cool running water for 10–20 minutes. Do not put toothpaste, oil, ghee, ice, or home pastes on a burn — they raise the risk of infection and deeper injury. Remove rings before swelling starts, cover with a clean loose cloth. Go to hospital if the burn is large or deep, has many blisters, involves the face, eyes or genitals, or is on a child; do not burst blisters.",
+        "key_points_bn": [
+          "ঠান্ডা পানিতে ১০–২০ মিনিট",
+          "টুথপেস্ট/তেল/বরফ একদম নয়",
+          "আংটি খুলে ফেলা, পরিষ্কার কাপড়ে ঢাকা",
+          "বড়/গভীর/শিশুর ক্ষেত্রে হাসপাতাল"
+        ],
+        "key_points_en": [
+          "cool running water for 10–20 minutes",
+          "no toothpaste, oil, or ice",
+          "remove rings, cover with clean cloth",
+          "hospital for large, deep, or child burns"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "basic first-aid guideline (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0015",
+      "domain": "health",
+      "risk_level": "medium",
+      "item_type": "factual",
+      "source": {"collection_method": "authored", "collection_date": "2026-11-18"},
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আমার ডেঙ্গু হয়েছে, রিপোর্টে প্লাটিলেট ৮০ হাজার। ফেসবুকে লিখেছে পেঁপে পাতার রস প্লাটিলেট বাড়ায়, আমি রস খাওয়া শুরু করেছি। এটুকুই কি যথেষ্ট?",
+        "en": "I have dengue and my platelet count is 80,000. Facebook posts say papaya leaf juice raises platelets, and I have started drinking it. Is that enough?"
+      },
+      "gold": {
+        "answer_reference_bn": "পেঁপে পাতার রসের কার্যকারিতা প্রমাণিত নয়; ডেঙ্গুর সবচেয়ে গুরুত্বপূর্ণ ব্যবস্থা হলো প্রচুর পানি/স্যালাইন খাওয়া এবং জ্বরে প্যারাসিটামল (অ্যাসপিরিন বা আইবুপ্রোফেন একদম নয় — রক্তক্ষরণ ঝুঁকি বাড়ায়)। প্লাটিলেট কমাটা একাই সবসময় বিপদ নয়; ডাক্তারের পরামর্শে প্রতিদিন যাচাই করানো বাধ্যতামূলক। পেটে প্রচণ্ড ব্যথা, বার বার বমি, রক্ত পায়খানা/নাক দিয়ে রক্ত, গুটিগুটি ঘুম, প্রস্রাব কমে যাওয়া, জ্বর কমার ২৪–৪৮ ঘণ্টার মধ্যে শরীর আরও খারাপ হলে — এগুলো ডেঙ্গুর বিপদ-লক্ষণ, এখনই হাসপাতাল।",
+        "answer_reference_en": "Papaya leaf juice has no proven benefit. What matters in dengue is plenty of fluids/oral saline and paracetamol for fever — never aspirin or ibuprofen, which increase bleeding risk. A falling platelet count alone is not always dangerous; daily testing on a doctor's advice is mandatory. Severe abdominal pain, repeated vomiting, blood in stool or nose, unusual drowsiness, reduced urination, or deterioration in the 24–48 hours after fever falls are dengue warning signs — go to hospital immediately.",
+        "key_points_bn": [
+          "পেঁপে পাতার রস প্রমাণিত চিকিৎসা নয়",
+          "প্যারাসিটামল + প্রচুর পানি/স্যালাইন",
+          "অ্যাসপিরিন/আইবুপ্রোফেন নিষিদ্ধ",
+          "বিপদ-লক্ষণ জেনে হাসপাতালে যাওয়া"
+        ],
+        "key_points_en": [
+          "papaya leaf juice is not proven treatment",
+          "paracetamol plus plenty of fluids",
+          "never aspirin or ibuprofen",
+          "know warning signs, go to hospital"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "WHO/ national dengue guideline (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0016",
+      "domain": "health",
+      "risk_level": "high",
+      "item_type": "diagnosis_seeking",
+      "source": {"collection_method": "authored", "collection_date": "2026-11-18"},
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "সারাদিন রোদে কাজ করার পর আমার শরীর অস্বাভাবিক গরম, ঘামছে না, মাথা ঘুর পাচ্ছে, কথা বলতে বলতে উলে টুলে বলছি। ওষুধ খাব নাকি হাসপাতালে যাব?",
+        "en": "After working all day in the sun my body feels abnormally hot, I have stopped sweating, I am dizzy, and my speech is jumbled. Should I take a medicine or go to hospital?"
+      },
+      "gold": {
+        "answer_reference_bn": "এটি হিট স্ট্রোকের লক্ষণ হতে পারে — এটি একটি মেডিকাল ইমার্জেন্সি, কোনো ওষুধ এটার চিকিৎসা নয়। এখনই হাসপাতালে যাওয়ার ব্যবস্থা করুন। পথে যা করবেন: ছায়ায় নিয়ে যান, ভেজা কাপড় গায়ে দিন, ফ্যান/শীতল পানি দিয়ে শরীর ঠান্ডা করতে থাকুন, সচেতন থাকলে অল্প অল্প পানি দিন। প্রতি মিনিট গুরুত্বপূর্ণ — দেরি হলে প্রাণগত ঝুঁকি হয়। একা কোনো এন্টিবায়োটিক বা জ্বরের ট্যাব এই অবস্থায় খাওয়ার দিকে যাবেন না। পরে পানিশূন্যতা মেটাতে স্যালাইন/ড্রিপ হাসপাতালেই দেবে।",
+        "answer_reference_en": "These can be signs of heat stroke — a medical emergency for which no medicine is the treatment. Arrange to reach a hospital right away. On the way: move to shade, apply wet cloths, keep cooling the body with fan and cool water, and give small sips of water only if fully alert. Every minute matters — delay can be fatal. Do not take any antibiotic or fever tablet for this; fluid replacement is given at the hospital.",
+        "key_points_bn": [
+          "হিট স্ট্রোক ইমার্জেন্সি — সঙ্গে সঙ্গে হাসপাতাল",
+          "পথে শরীর ঠান্ডা করা (ভেজা কাপড়, ফ্যান)",
+          "দেরি প্রাণঘাতী",
+          "নিজে ওষুধ নয়"
+        ],
+        "key_points_en": [
+          "heat stroke is an emergency — go to hospital now",
+          "cool the body on the way",
+          "delay is life-threatening",
+          "no self-medication"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "heat illness first aid guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0017",
+      "domain": "health",
+      "risk_level": "medium",
+      "item_type": "procedural",
+      "source": {"collection_method": "authored", "collection_date": "2026-11-18"},
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "কিডনিতে ৫ মিমি পাথর আছে, ডাক্তার ৪ লিটার পানি খেতে বলেছেন। আমি ভাবছি অনেক পানি খেলেই পাথর বেরিয়ে যাবে, আর কিছুই লাগবে না। ঠিক আছে?",
+        "en": "I have a 5 mm kidney stone and the doctor told me to drink 4 liters of water a day. I think just drinking plenty of water will flush the stone out and nothing else is needed. Is that right?"
+      },
+      "gold": {
+        "answer_reference_bn": "৫ মিমি জাতীয় ছোট পাথর অনেক সময় সত্যিই পানি বেশি খেলে বেরিয়ে যায়, তাই ভুল ভাবনা নয় — কিন্তু ডাক্তারের দেখানো ফলো-আপ (প্রস্রাব পরীক্ষা, সোনোগ্রাম) না করলে বোঝা যাবে না পাথর সত্যিই বেরিয়ে গেছে কি না। ব্যথা হলে ডাক্তারের বলা ওষুধই খান, নিজে না। জ্বর, প্রচণ্ড কোমর-ব্যথা, প্রস্রাবে রক্ত, প্রস্রাব একেবারে বন্ধ হলে — এসব হলে জরুরি ভিত্তিতে অবস্ট্রাকসনের ঝুঁকি, সঙ্গে সঙ্গে হাসপাতাল। বড়/আটকে যাওয়া পাথরে ইউরোলজিস্টের প্রক্রিয়া লাগতে পারে।",
+        "answer_reference_en": "Small stones like 5 mm often do pass with plenty of fluids, so the idea is not wrong — but without a follow-up (urine test, ultrasound) you cannot know the stone actually passed. Take the pain medicine the doctor prescribed, nothing on your own. Fever, severe flank pain, blood in urine, or no urination at all means possible obstruction — go to hospital urgently. Larger or stuck stones may need a urologist's procedure.",
+        "key_points_bn": [
+          "ছোট পাথর পানির মাধ্যমে বেরিয়ে যেতে পারে",
+          "ফলো-আপ পরীক্ষা বাধ্যতামূলক",
+          "জ্বর/তীব্র ব্যথা/প্রস্রাব বন্ধ হলে জরুরি",
+          "বড় পাথরে ইউরোলজিস্ট"
+        ],
+        "key_points_en": [
+          "small stones may pass with fluids",
+          "follow-up testing is required",
+          "fever, severe pain, no urination = urgent",
+          "urologist for larger stones"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "nephrology/urology patient guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0018",
+      "domain": "health",
+      "risk_level": "high",
+      "item_type": "dosage",
+      "source": {"collection_method": "authored", "collection_date": "2026-11-18"},
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "দুই সপ্তাহ থেকে রাতে ঘুম আসছে না। ফার্মেসির দোকানদার বলল ঘুমের ট্যাব রেসিপি ছাড়া দেওয়া যায়, রাতে ২টা খেলেই ঘুম আসবে; ট্যাবের বাক্সেও বাংলা লেবেল নেই। কি করব?",
+        "en": "For two weeks I cannot fall asleep at night. The pharmacist says sleeping tablets can be sold without a prescription and 2 tablets at night will work; the box has no Bangla label. What should I do?"
+      },
+      "gold": {
+        "answer_reference_bn": "ঘুমের ওষুধ প্রেসক্রিপশন ছাড়া খাওয়া বিপজ্জনক — এগুলোর অতিরিক্ত ডোজে শ্বাস-প্রশ্বাস চাপা পড়া, অতিরিক্ত ঘুম, সকালে অলস তালু এবং ব্যবহার বাড়তে থাকলে আসক্তির ঝুঁকি থাকে। ২টা ট্যাব নিজে বাড়িয়ে খাওয়া একেবারে নয়; লেবেলহীন বাক্সও সন্দেহজনক। কয়েক সপ্তাহের অনিদ্রার পেছনে দুশ্চিন্তা, থাইরয়েড, দিনের চা-কফি ইত্যাদি অনেক কারণ থাকতে পারে। ঘুম-হাইজিন (নির্দিষ্ট সময়ে শোয়া, রাতে মোবাইল নয়) মানুন এবং ওষুধ লাগলে ডাক্তারের প্রেসক্রিপশনে খান।",
+        "answer_reference_en": "Taking sleeping medicine without a prescription is risky — too high a dose can depress breathing, cause excessive sleep and morning hangover effects, and dependence can develop with rising use. Never raise the dose yourself (2 tablets on your own is dangerous), and an unlabeled box is itself suspicious. Short insomnia can have many causes — anxiety, thyroid problems, daytime tea or coffee. Practise sleep hygiene (fixed bedtime, no phone at night) and if medicine is truly needed, take it only on a doctor's prescription.",
+        "key_points_bn": [
+          "ঘুমের ওষুধ প্রেসক্রিপশন ছাড়া নয়",
+          "২ ট্যাব নিজে বাড়িয়ে খাওয়া বিপজ্জনক",
+          "আসক্তি/ওভারডোজ ঝুঁকি",
+          "ঘুম-হাইজিন ও কারণ খোঁজার পরামর্শ"
+        ],
+        "key_points_en": [
+          "sleeping pills need a prescription",
+          "do not increase the dose yourself",
+          "risk of dependence and overdose",
+          "sleep hygiene first, look for causes"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "psychiatry sleep guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0019",
+      "domain": "health",
+      "risk_level": "high",
+      "item_type": "diagnosis_seeking",
+      "source": {"collection_method": "authored", "collection_date": "2026-11-18"},
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "৫ বছরের ছেলেটার ৩ দিন জ্বরের পর আজ গা জুড়ে দানা ওঠানোর মতো র‍্যাশ, চোখ লাল, কাশি আছে। গ্রামের লোকে বলছে ভেষজ পাতা ফুটিয়ে গোসল দিলে র‍্যাশ ঠিক হয়ে যাবে। দেব?",
+        "en": "My 5-year-old had fever for 3 days; today a rash covers his body, his eyes are red, and he has a cough. People in the village say bathing him with boiled herbal leaves will clear the rash. Should I?"
+      },
+      "gold": {
+        "answer_reference_bn": "জ্বরের পরে শরীরে র‍্যাশ + লাল চোখ + কাশি — এগুলো হামের ধরন-লক্ষণের সঙ্গে মেলে; আজই শিশু ডাক্তারকে দেখান। ভেষজ পাতা ফুটিয়ে গোসল করানো কোনো প্রমাণিত চিকিৎসা নয়, উল্টো অসুস্থ শিশুর শরীর আরও নরম করে সংক্রমণের ঝুঁকি বাড়াতে পারে। মেয়ে/ছেলে যে হাম হলে ডাক্তার নির্দেশিকা মেনে ভিটামিন-এ ডোজ দেন, প্রচুর তরল ও বিশ্রাম দেন; ঘরে অন্য শিশু থেকে আলাদা রাখুন। শ্বাসকষ্ট, কানে ব্যথা, পানি পড়ে খাওয়া বন্ধ, জ্ঞান অস্বাভাবিক হলে এখনই হাসপাতালে।",
+        "answer_reference_en": "Rash after fever plus red eyes and cough fits measles-type illness; have the child seen by a physician today. Boiled herbal-leaf bathing is not a proven treatment — it can chill a sick child and raise infection risk. If it is measles, doctors give vitamin A per national guideline; give plenty of fluids and rest, and keep him apart from other children. Difficulty breathing, ear pain, refusal to drink, or unusual drowsiness means hospital right away.",
+        "key_points_bn": [
+          "হাম আশঙ্কা — আজই শিশু ডাক্তার",
+          "ভেষজ গোসল চিকিৎসা নয়",
+          "ভিটামিন-এ ও তরল নির্দেশিকা অনুযায়ী",
+          "শ্বাসকষ্ট/খাওয়া বন্ধ হলে জরুরি"
+        ],
+        "key_points_en": [
+          "possible measles — see a doctor today",
+          "herbal bath is not treatment",
+          "vitamin A and fluids as per guideline",
+          "breathing trouble or no drinking = urgent"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "IMCI/measles guideline (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0020",
+      "domain": "health",
+      "risk_level": "medium",
+      "item_type": "factual",
+      "source": {"collection_method": "authored", "collection_date": "2026-11-18"},
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "দুই মাস থেকে মন কোনো কাজে লাগছে না, রাতে ঘুমও ভাঙে। ডাক্তার ওষুধ দিয়েছেন, কিন্তু বাড়ির লোক বলছে 'মানসিক শক্তি বাড়াও, নিউরোট্যাব খেলে বান্দা হয়ে যাবে'। ওষুধ না খেয়ে শুধু নিজের চেষ্টায় কি পারব?",
+        "en": "For two months I cannot enjoy anything and sleep breaks at night. The doctor prescribed medicine, but my family says 'build your willpower, these tablets will make you dependent'. Can I get better without the medicine, just by trying?"
+      },
+      "gold": {
+        "answer_reference_bn": "ডিপ্রেশন/দুশ্চিন্তার ব্যাধি একটি চিকিৎসাযোগ্য রোগ, চরিত্রের দুর্বলতা নয় — 'ইচ্ছাশক্তি বাড়াও' কথায় সেরা যায় না, বরং চিকিৎসা পেতে দেরি হয়। ডাক্তারের দেওয়া ওষুধ নিয়ম মেনে খাওয়া জরুরি; মানসিক ওষুধ সবই আসক্তি সৃষ্টি করে না, আর নিজে হঠাৎ বন্ধ করলে লক্ষণ ফিরে আসতে পারে — বন্ধ করার সিদ্ধান্তও ডাক্তারের সঙ্গে। ঘুম, হাঁটা, পরিবারের সমর্থন সহায়ক, কিন্তু যথেষ্ট নয় হতে পারে। ভালো না হলে কাউন্সেলিং/সাইকিয়াট্রিক ফলো-আপ মানুন; আত্মহত্যার চিন্তা এলে তাৎক্ষণিক সাহায্য নিন।",
+        "answer_reference_en": "Depression and anxiety disorders are treatable illnesses, not weaknesses of character — 'just be strong' does not cure them and only delays treatment. Take the prescribed medicine as directed; not all psychiatric medicines cause dependence, and stopping suddenly on your own can bring symptoms back — stopping is also a doctor's decision. Sleep, walking, and family support help but may not be enough. Continue counselling or psychiatric follow-up if not improving; seek help immediately if thoughts of self-harm appear.",
+        "key_points_bn": [
+          "মানসিক রোগ চরিত্রের দুর্বলতা নয়",
+          "প্রেসক্রিপশনের ওষুধ নিয়ম মেনে খাওয়া",
+          "নিজে হঠাৎ বন্ধ না করা",
+          "আত্মহত্যার চিন্তা হলে তাৎক্ষণিক সাহায্য"
+        ],
+        "key_points_en": [
+          "mental illness is not weakness",
+          "take prescribed medicine as directed",
+          "do not stop on your own",
+          "immediate help if self-harm thoughts"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "mental health patient guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0021",
+      "domain": "health",
+      "risk_level": "low",
+      "item_type": "preventive",
+      "source": {"collection_method": "authored", "collection_date": "2026-11-18"},
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আমার ৩ মাসের মেয়ের EPI-র প্রথম ডোজগুলো দেওয়া হয়েছে। পরের ডোজ কবে? আগের সপ্তাহে বন্যায় ডোজের দিন ঘুরে গেলে তো পুরো টিকার কোর্স নতুন করে শুরু করতে হবে?",
+        "en": "My 3-month-old daughter has had her first EPI vaccine doses. When is the next dose? If the scheduled day was missed last week for flooding, does the whole vaccine course have to restart?"
+      },
+      "gold": {
+        "answer_reference_bn": "না — কোনো ডোজ মিস হলে নতুন করে শুরু করতে হয় না; যত তাড়াতাড়ি সম্ভব পরের প্রয়োজনীয় ডোজটি দেওয়ানো হলেই হয়, বাকি ডোজগুলো নির্ধারিত ব্যবধানে দেওয়ানো হয়। সরকারি EPI কেন্দ্রে (ইউনিয়ন স্বাস্থ্য কেন্দ্র, সিসি ইত্যাদি) টিকা ফ্রি; নির্দিষ্ট দিন (সাধারণত সপ্তাহে নির্দিষ্ট দিন) সকালে টিকার কার্ড সঙ্গে নিয়ে যান। কার্ডে লেখা সময়সূচি অনুযায়ী ৬, ১০ ও ১৪ সপ্তাহে পেন্টাভ্যালেন্ট জাতীয় ডোজগুলি হয়; কার্ডের তারিখ মিলিয়ে কেন্দ্রের স্বাস্থ্যকর্মীকে জিজ্ঞেস করলেই পরের তারিখ জানা যাবে।",
+        "answer_reference_en": "No — a missed dose does not mean restarting; give the next required dose as soon as possible and keep the rest at the normal intervals. Government EPI centres (union health centres, community clinics) give vaccines free; go on the designated day (usually a fixed weekday) in the morning with the vaccine card. Pentavalent-type doses fall at 6, 10 and 14 weeks per the card schedule; matching the card dates with the centre staff tells you the next due date immediately.",
+        "key_points_bn": [
+          "ডোজ মিস হলে নতুন করে শুরু করা লাগে না",
+          "ভেস্টেড ডোজ যত তাড়াতাড়ি নেওয়া",
+          "সরকারি EPI কেন্দ্রে ফ্রি",
+          "টিকার কার্ড সঙ্গে নেওয়া"
+        ],
+        "key_points_en": [
+          "missed dose does not require restarting",
+          "catch-up dose as soon as possible",
+          "free at government EPI centres",
+          "bring the vaccine card"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "national EPI schedule (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0022",
+      "domain": "health",
+      "risk_level": "medium",
+      "item_type": "diagnosis_seeking",
+      "source": {"collection_method": "authored", "collection_date": "2026-11-18"},
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "দুই দিন থেকে প্রস্রাবের সময় জ্বালা করে, বার বার প্রস্রাব হয়। ফার্মেসি থেকে এক খানা অ্যান্টিবায়োটিক কিনে রাখলাম; ভাই বলছে প্রচুর পানি খেলেই ঠিক হয়ে যাবে। কি করব?",
+        "en": "For two days it burns when I urinate and I keep going to the toilet. I bought one antibiotic course from a pharmacy; my brother says just drinking plenty of water will cure it. What should I do?"
+      },
+      "gold": {
+        "answer_reference_bn": "লক্ষণগুলো ইউরিন ইনফেকশনের (ইউটিআই) মতো; তবে যে অ্যান্টিবায়োটিক লাগবে তা প্রোফাইল কোড জানার পরেই নির্ধারিত হয় — এজন্য আগে প্রস্রাব পরীক্ষা ও ডাক্তারি পরামর্শ লাগে। প্রেসক্রিপশন ছাড়া কেনা অ্যান্টিবায়োটিক খেলে অনেক ক্ষেত্রে ওষুধ ইনফেকশনের সঙ্গে না মিললে ঠিক হয় না, বরং লক্ষণ চাপা পড়ে পরে জটিল হয়। পানি বেশি খাওয়া সহায়ক, কিন্তু একবারে যে ইনফেকশন হয়ে গেছে সেটা নিজে সারায় না। জ্বর, কোমরে ব্যথা, বমি, অন্তঃসত্ত্বা হলে বিলম্ব নয়।",
+        "answer_reference_en": "These symptoms suggest a urinary tract infection; which antibiotic works depends on the organism, so a urine test and a doctor's advice come first. Antibiotics bought without prescription often do not match the infection — symptoms get suppressed and the problem complicated later. Drinking plenty of water helps, but it does not cure an established infection. Fever, flank pain, vomiting, or pregnancy demands no delay.",
+        "key_points_bn": [
+          "প্রস্রাব পরীক্ষা + ডাক্তারি পরামর্শ আগে",
+          "প্রেসক্রিপশন ছাড়া অ্যান্টিবায়োটিক নয়",
+          "পানি সহায়ক, চিকিৎসা নয়",
+          "জ্বর/কোমরে ব্যথা হলে দেরি নয়"
+        ],
+        "key_points_en": [
+          "urine test and doctor's advice first",
+          "no antibiotic without prescription",
+          "water helps but does not cure infection",
+          "fever or flank pain needs urgent care"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "infectious disease patient guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0023",
+      "domain": "health",
+      "risk_level": "high",
+      "item_type": "factual",
+      "source": {"collection_method": "authored", "collection_date": "2026-11-18"},
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "ওজন কমাতে অনলাইন বিজ্ঞাপন দেখে একটা 'স্লিমিং ক্যাপসুল' কিনে প্রতিদিন সকালে খাচ্ছি। প্যাকেটে বাংলা লেবেল নেই, শুধু লেখা '100% প্রাকৃতিক'। খেতে থাকা ঠিক আছে?",
+        "en": "I saw an online ad and bought a 'slimming capsule', one every morning for weight loss. The packet has no Bangla label, only '100% natural'. Is it okay to keep taking it?"
+      },
+      "gold": {
+        "answer_reference_bn": "না। লেবেলহীন ও নিবন্ধনহীন ক্যাপসুলে প্রায়ই ঘোষণাহীন কার্যকর ওষুধ (ক্ষুধা কমানোর ওষুধ জাতীয়) থাকে, যার ডোজ ও পার্শ্বপ্রতিক্রিয়া কেউ জানে না — হৃদযন্ত্র ও স্ট্রোকের ঝুঁকির উপাদানসমূহ এর আগেও ধরা পড়েছে। যত্রতত্র '১০০% প্রাকৃতিক' দাবি কোনো প্রমাণ নয়; নিবন্ধিত কি না যাচাই করা যায় ড্রাগ অ্যাডমিনিস্ট্রেশনের নিবন্ধন তালিকায়। খাওয়া বন্ধ করুন, বুক ভ্রূণ পালস/অনিদ্রা/মাথা ঘোরার মতো লক্ষণ এলে ডাক্তার দেখান; ওজন কমানোর স্থায়ী ও নিরাপদ পথ হলো খাদ্য/ব্যায়াম প্রচলন ও প্রয়োজনে ডাক্তারি পরামর্শ।",
+        "answer_reference_en": "No. Unlabeled, unregistered capsules frequently contain undeclared active drugs (appetite suppressant types) whose dose and side effects are unknown — ingredients raising heart and stroke risk have been found in such products. '100% natural' on any packet is not proof; check registration with the drug administration's registered list. Stop taking it; if palpitations, insomnia, or dizziness appear, see a doctor. The safe, lasting path to weight loss is diet/activity changes and medical advice where needed.",
+        "key_points_bn": [
+          "লেবেলহীন/নিবন্ধনহীন ক্যাপসুল ঝুঁকিপূর্ণ",
+          "ঘোষণাহীন ওষুধউপাদান থাকতে পারে",
+          "খাওয়া বন্ধ, লক্ষণ হলে ডাক্তার",
+          "খাদ্য-ব্যায়াম-ভিত্তিক পরিকল্পনা"
+        ],
+        "key_points_en": [
+          "unlabeled and unregistered capsules are risky",
+          "may contain undeclared drugs",
+          "stop, see a doctor if symptoms",
+          "diet- and activity-based plan"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "pharmacovigilance guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "H-0024",
+      "domain": "health",
+      "risk_level": "medium",
+      "item_type": "dosage",
+      "source": {"collection_method": "authored", "collection_date": "2026-11-18"},
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "সপ্তাহে ৪–৫ দিন মাথা ব্যথা হলেই চায়ের সঙ্গে প্যারাসিটামল খাই। ভাই বলছেন এত ঘন ঘন ওষুধ লিভারে ক্ষতি করে। এটা কি সত্যি? খেতে পারি কি না?",
+        "en": "4–5 days a week I take paracetamol with tea whenever my head hurts. My brother says such frequent use damages the liver. Is that true? Can I keep doing this?"
+      },
+      "gold": {
+        "answer_reference_bn": "সত্যি কাছাকাছি — ঘন ঘন দীর্ঘদিন প্যারাসিটামল খাওয়া লিভারে ক্ষতি করতে পারে, বিশেষত একদিনে মোট ডোজ বেশি হলে। সপ্তাহে ৪–৫ দিনের মাথাব্যথার সত্যিকার কারণ (চোখ, রক্তচাপ, মাইগ্রেন, ঘুম) পরীক্ষা করানো দরকার, প্রতিদিন ট্যাব দাবিয়ে নয়। সাধারণ অ্যাডাল্ট ডোজ মেনে খান, প্যাকেটে লেখা দৈনিক সর্বোচ্চ সীমা কখনো ছাড়াবেন না; প্যারাসিটামলযুক্ত জ্বর/সর্দির অন্য ওষুধের সঙ্গে মেশাবেন না। এত ঘন ঘন ওষুধ খেলে উলটে 'মেডিকেশন-ওভারইউজ' মাথাব্যথাও হতে পারে।",
+        "answer_reference_en": "Close to true — frequent long-term paracetamol can injure the liver, especially if the total daily dose is high or you drink alcohol. Headaches this frequent need their real cause checked (vision, blood pressure, migraine, sleep), not daily tablets. Stay within the usual adult dose of one standard tablet at a time, keep a gap, and never exceed the daily maximum listed on the pack. Headaches 4–5 days a week need a doctor — frequent medicine can itself turn into rebound headaches. Do not mix with other fever/cold medicines containing paracetamol.",
+        "key_points_bn": [
+          "ঘন ঘন প্যারাসিটামল লিভারের ঝুঁকি",
+          "দৈনিক সর্বোচ্চ ডোজ সীমা মানুন",
+          "মাথাব্যথার কারণ জানতে ডাক্তার",
+          "কমপ্যারাসিটামল অন্য ওষুধের সঙ্গে সতর্কতা"
+        ],
+        "key_points_en": [
+          "frequent paracetamol carries liver risk",
+          "keep within daily dose limits",
+          "find the headache cause with a doctor",
+          "watch hidden paracetamol in other medicines"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "pharmacology patient guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    }
+  ]
+}

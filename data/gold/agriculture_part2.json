@@ -1,0 +1,425 @@
+{
+  "_note": "Authored agriculture items A-0013 to A-0024. Realistic register, written by the researcher (authored provenance), not collected from real farmers.",
+  "items": [
+    {
+      "id": "A-0013",
+      "domain": "agriculture",
+      "risk_level": "medium",
+      "item_type": "dosage",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "ব্রয়লারের মুরগিতে কিছু পাখি পাতলা পায়খানা করছে; খামারি ভাই বলল পানির সঙ্গে অ্যান্টিবায়োটিক মিশিয়ে দিতে। মুরগি আজ-কাল মার্কেটে বেচা যাবে কি?",
+        "en": "Some of my broilers have loose droppings; a fellow farmer says to mix an antibiotic in the water. Can today's or tomorrow's birds go to market?"
+      },
+      "gold": {
+        "answer_reference_bn": "দুটো কথা আলাদা করতে হবে। এক — অ্যান্টিবায়োটিক প্রয়োজন কি না আগে ভেট/আপা-কে জিজ্ঞেস করা ভালো; অকারণে অ্যান্টিবায়োটিক দিলে খরচ বাড়ে ও প্রতিরোধ ক্ষমতা তৈরি হয়। দুই — অ্যান্টিবায়োটিক বা যেকোনো ওষুধ নির্ধারিত মাত্রায় দিলেও লেবেলে লেখা 'উইথড্রয়াল পিরিয়ড' (ওষুধ বন্ধের পর নির্দিষ্ট দিন যতদিন খাওয়া থেকে পাখির ওষুধ অবশিষ্ট থাকে) মানতে হবে; সেই সময়ের মাছি/ডিম মানুষের খাদ্যে প্রবেশ করা ঝুঁকিপূর্ণ। মার্কেটে পাঠানোর ঠিক আগে ওষুধ দেওয়া মুরগি বেচা ঠিক নয়। পাতলা পায়খানার কারণ প্যাসলুরেলা/সিওসিক্সিস/পার্বতী প্রাণিসম্পদ অফিসে যাচাই করান, আর খামারে বায়ুচলাচল ও ভেজা বিছানা ঠিক করুন।",
+        "answer_reference_en": "Two issues are separate. First, ask a vet/DLS field staff whether an antibiotic is needed at all — unnecessary use raises cost and builds resistance. Second, even a prescribed antibiotic must be respected for its label withdrawal period: during that window residues stay in meat/eggs, which is risky for consumers. Selling birds medicated right before market is not okay. Get the cause checked at the upazila livestock office, and fix ventilation and wet litter.",
+        "key_points_bn": [
+          "বেতনভুক্ত ওষুধ-নির্দেশ আগে",
+          "উইথড্রয়াল পিরিয়ড মানা",
+          "সরাসরি নিজে দেওয়া নয়",
+          "কারণ যাচাই ও বিছানা-বায়ু ম্যানেজমেন্ট"
+        ],
+        "key_points_en": [
+          "vet's guidance before medicating",
+          "respect the withdrawal period",
+          "no self-medication",
+          "check cause, fix ventilation"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "DLS poultry guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0014",
+      "domain": "agriculture",
+      "risk_level": "low",
+      "item_type": "factual",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "ধানের ক্ষেতে ইউরিয়া পাতায় ছিটিয়ে দিলে ফসল ডাবল হয় — রং সাদা খৈল পুরো হবে — লোকমুখে শুনেছি। সত্যিই কি ইউরিয়া পাতায় ছিটাব?",
+        "en": "Villagers say spraying urea on rice leaves doubles the yield and the grain will fill fully. Should I really spray urea on the leaves?"
+      },
+      "gold": {
+        "answer_reference_bn": "না — ধানে পাতা-স্প্রে হিসেবে ইউরিয়া ছিটানো প্রচলিত সুপারিশ নয়; ইউরিয়া মাটিতে নির্ধারিত কিস্তিতে দেওয়াই সঠিক, আর পাতায় ঘন স্প্রে পাতা পুড়িয়ে দিতে পারে। ফসল 'ডাবল' হওয়ার মতো কোনো জাদু-স্প্রে নেই। ধানের ফলন বাড়াতে কাজ করে: মাটি পরীক্ষা করে সার দেওয়া, USG/ব্রিকেট ইউরিয়া বা পোকা-মাকড় ও পানি সঠিক ব্যবস্থা; রোপণের বয়স ও জাত। নিজের জমির জন্য স্থানীয় কৃষি কর্মকর্তার সুপারিশ মানুন, লোক-মুখের ফর্মুলা নয়।",
+        "answer_reference_en": "No — foliar urea spray on rice is not a standard recommendation; urea belongs in soil-based split applications, and concentrated leaf sprays can scorch leaves. No magic spray doubles yield. What works: soil-test-based fertilizer, urea briquette (USG) where advised, correct water and pest management, timely planting of a good variety. Follow the local agriculture officer's recommendation for your land, not folk formulas.",
+        "key_points_bn": [
+          "পাতায় ইউরিয়া ছিটানো পরামর্শ নয়",
+          "ইউরিয়া মাটিতে কিস্তিতে",
+          "মাটি পরীক্ষা-ভিত্তিক সার",
+          "কৃষি কর্মকর্তার সুপারিশ"
+        ],
+        "key_points_en": [
+          "foliar urea on rice is not recommended",
+          "soil-based split urea",
+          "soil-test-based fertilization",
+          "follow extension officer advice"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "DAE fertilizer recommendation (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0015",
+      "domain": "agriculture",
+      "risk_level": "low",
+      "item_type": "preventive",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "সবাই বলছে মাটি পরীক্ষা করিয়ে সার দিতে; কিন্তু কোথায় করাব, কত খরচ, আর রিপোর্ট পেলে সেটা কীভাবে ব্যবহার করব বুঝব না। আসলে কি দরকার?",
+        "en": "Everyone says to get my soil tested before fertilizing, but where do I do it, what does it cost, and how would I even use the report? Is it really necessary?"
+      },
+      "gold": {
+        "answer_reference_bn": "দরকার আছে — প্রতিবছর একই সারের ডোজ দিলে একদিকে খরচ নষ্ট হয়, অন্যদিকে মাটির স্বাস্থ্য (pH, জৈব পদার্থ) খারাপ হয়। উপজেলা কৃষি অফিস/মৃত্তিকা পরীক্ষাগার (SRDI)-এ মাটির নমুনা দেওয়া যায়, খরচ অল্প; নমুনা দেওয়ার নিয়ম (একাধিক জায়গা থেকে মিলিয়ে 'ফ্রি কাটেক্ট' নমুনা) কর্মকর্তা দেখিয়ে দেবেন। রিপোর্টে সাধারণত জমির ধরন অনুযায়ী উর্বরতা ও ফসলভিত্তিক সারের মাত্রা লেখা থাকে — কর্মকর্তাকে বলবেন আপনি কোন ফসল লাগাবেন, তিনি সারের হিসাব বুঝিয়ে দেবেন। প্রথমবার করালেই জানা যাবে ইউরিয়া কমানো যায় কি না বা কোন উপাদান কম।",
+        "answer_reference_en": "Yes, it is worth it — repeating the same fertilizer dose every year wastes money and degrades soil health (pH, organic matter). You can submit a soil sample at the upazila agriculture office or a soil testing lab (SRDI) at low cost; staff show how to take a composite sample from several spots. The report gives fertility levels and crop-specific fertilizer doses — tell the officer which crop you plan and they will work out the amounts. One test already tells you whether urea can be reduced or any nutrient is short.",
+        "key_points_bn": [
+          "মাটি পরীক্ষার প্রয়োজন আছে",
+          "SRDI/উপজেলা কৃষি অফিসে নমুনা",
+          "রিপোর্ট অনুযায়ী ফসলভিত্তিক মাত্রা",
+          "খরচ ও স্বাস্থ্য দুটোই বাঁচে"
+        ],
+        "key_points_en": [
+          "soil testing is genuinely useful",
+          "sample via SRDI or upazila office",
+          "use report for crop-specific doses",
+          "saves cost and soil health"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "SRDI/DAE soil testing guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0016",
+      "domain": "agriculture",
+      "risk_level": "high",
+      "item_type": "pest_control",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "ফসলের খেতে ইঁদুরে বিপদ। বাজার থেকে জিংক ফসফাইড (আলু ফসফেড) ট্যাবলেট বিতাড়ন সম্ভাব্য রিতি বুঝতে চাই — খালি হাতে লুটিয়ে রাখলেই হবে? আমার ছোট বাচ্চাও আছে ঘরে।",
+        "en": "Rats are damaging my crops. I bought zinc phosphide tablets from a market stall and want to know how to place them — just scatter them barehanded? My small child is also at home."
+      },
+      "gold": {
+        "answer_reference_bn": "জিংক ফসফাইড প্রাণঘাতী বিষ — শিশু ও পোষা প্রাণীর জন্য মারাত্মক, তাই সতর্কতা ছাড়া ব্যবহার করা যায় না। খালি হাতে ছড়ানো একেবারে নয়; লেবেলের নির্দেশ ও স্থানীয় কৃষি কর্মকর্তার পরামর্শ অনুযায়ী খুব অল্প মাত্রায় ভাত/গমের সঙ্গে মিশিয়ে গর্তের মুখে সুরক্ষিতভাবে রাখতে হয়, একটি প্যাকেট সবসময় সন্তানের নাগালের বাইরে রাখুন, গ্লাভস ব্যবহার করুন, হাত সাবান দিয়ে ধুয়ে ফেলুন, মৃত ইঁদুর গান্ডের মাধ্যমে ফেলে দিন। এর পাশাপাশি ফাঁদ, ফসল কাটার সময়-ব্যবস্থা ইত্যাদি একত্রে করলে ভালো; খেতে ব্যবহারের সময় হলে রিপোর্ট করে দিন। বাচ্চার ঘর সংক্ষুব্ধ না-আছে কিছু — নিচ গার্ডেনের মতো ডোজই মারাত্মক হতে পারে।",
+        "answer_reference_en": "Zinc phosphide is a lethal poison — deadly for children and pets, so never use it without strict care. Never scatter it barehanded; follow the label and local agriculture officer's advice, mix in very small amounts with bait (rice/wheat) and place securely at burrow mouths. Keep the packet out of children's reach, wear gloves, wash hands with soap, and dispose of dead rats by burying/burning. Combine with traps and timing measures; note that even a small amount can be fatal to a young child.",
+        "key_points_bn": [
+          "জিংক ফসফাইড প্রাণঘাতী — চরম সতর্কতা",
+          "খালি হাতে ছড়ানো নয়",
+          "শিশুর নাগালের বাইরে",
+          "গ্লাভস ও লেবেল নির্দেশ মানুন"
+        ],
+        "key_points_en": [
+          "zinc phosphide is lethal — extreme care",
+          "never scatter barehanded",
+          "out of children's reach",
+          "gloves and label instructions"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "rodenticide safety guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0017",
+      "domain": "agriculture",
+      "risk_level": "low",
+      "item_type": "preventive",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "গত বছর গুদামে ধান রেখেছিলাম, ছানাপোকা (গান্ড পোকা) খেয়ে নষ্ট করেছে। এবার ধান ও দানা রাখার আগে কী করব? 'ফার্মিসিন' ফাঁদ দরকার কি?",
+        "en": "Last year my stored paddy was spoiled by weevils. Before storing paddy and grain this time, what should I do? Should I use fumigation?"
+      },
+      "gold": {
+        "answer_reference_bn": "ধান/গম ভান্ডারে রাখার আগে ধান ভালো শুকিয়ে (আর্দ্রতা ঠিক), গুদাম/ড্রাম পরিষ্কার ঝাড়ু দিয়ে ফাঁক-ফোকর বন্ধ করুন; পুরনো ফসলের সঙ্গে নতুন ফসল মিশাবেন না। বীজ-ধান হলে রং করা বা সিলড কন্টেইনারে রাখুন, ইঁদুর-প্রতিরোধী রাখুন। ছানাপোকা ধরলে নিম/প্রতিরোধক ব্যবহার বা কৃষি কর্মকর্তার পরামর্শে নির্দিষ্ট প্রতিরোধক; হ্যান্ট ফসফিন-জাতীয় ন্যাশনাল ফুমিগেশন করাতে চাইলে সেটি জটিল ও বিপজ্জনক — নিজে ঘটানোর চেষ্টা না করে প্রশিক্ষিত ব্যক্তি/অফিসের সহযোগিতা নিন (ছাদে দাঁড়িয়ে ট্যাবলেটের ধোঁয়া মারাত্মক)।",
+        "answer_reference_en": "Before storage, dry the paddy/grain to the right moisture, clean the room/drums well, and seal cracks; do not mix new grain with old stock. Keep seed grain in colored/airtight containers and protected from rats. If weevils appear, use preventives or a registered grain protectant on the officer's advice. Phosphine-type fumigation is complex and dangerous — never attempt it yourself in a living room; take help from trained staff or the office (its fumes are lethal).",
+        "key_points_bn": [
+          "সঠিক আর্দ্রতায় শুকানো, গুদাম পরিষ্কার",
+          "নতুন-পুরনো মিশানো নয়",
+          "নিবন্ধিত প্রতিরোধক/নিম",
+          "ফুমিগেশন নিজে নয়"
+        ],
+        "key_points_en": [
+          "dry to correct moisture, clean store",
+          "never mix old and new stock",
+          "registered protectant or neem",
+          "no self-fumigation"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "grain storage guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0018",
+      "domain": "agriculture",
+      "risk_level": "low",
+      "item_type": "factual",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আমরা উপকূলের গ্রামে থাকি, জমির পানিতে লোনা ভাবটা ধরে আছে। এখন বোরো মৌসুম আসছে — কি ধান লাগাব, আর কি কি করলে ফলন কমে যাবে না?",
+        "en": "We live in a coastal village and our fields stay slightly saline. The boro season is coming — what rice should I plant, and what mistakes lower the yield here?"
+      },
+      "gold": {
+        "answer_reference_bn": "লোনা জমির জন্য উপকূলের জন্য উন্নত লবণসহনশীল জাত (যেমন বিনা-৮, বিনা-১০, BRRI ধান ৬৭ জাতীয় — কোনটা আপনার এলাকায় চলে তা উপজেলা কৃষি কর্মকর্তাকে জিজ্ঞেস করুন) লাগানো সবচেয়ে বড় ব্যাপার। আর যা মনে রাখতে হয়: বেশি ইউরিয়া দিলে লবণসহনশীলতা কমে; মাটি অনুযায়ী পটাশ ঠিক রাখলে লবণ ধারণ কমে; কচুরিপানা খালি-লোনা পানির চ্যানেল আটকে দিলে খারাপ; কাজের আগে চারা হওয়ার সময় না-রাখলে রোপণে টান পড়ে। মাটি পরীক্ষা করিয়ে সার ও পানির ব্যবস্থাপনা কর্মকর্তার পরামর্শ অনুযায়ী করুন।",
+        "answer_reference_en": "On saline land, choosing a released salt-tolerant variety (such as BINA-8, BINA-10, BRRI dhan67-type — ask the upazila officer which suits your area) matters most. Also remember: excess urea reduces salt tolerance; balanced potash helps the plant cope; blocking drainage channels with water hyacinth makes salinity worse; and late transplanting reduces yield. Get the soil tested and follow the officer's advice for fertilizer and water management.",
+        "key_points_bn": [
+          "লবণসহনশীল জাত বাছাই",
+          "উপজেলা কৃষি কর্মকর্তার পরামর্শ",
+          "অতিরিক্ত ইউরিয়া নয়, পটাশ সুষম",
+          "মাটি পরীক্ষা ও নিষ্কাশন"
+        ],
+        "key_points_en": [
+          "choose a salt-tolerant released variety",
+          "follow the upazila officer's advice",
+          "no excess urea, balanced potash",
+          "soil test and drainage"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "BRRI/BINA coastal salinity guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0019",
+      "domain": "agriculture",
+      "risk_level": "low",
+      "item_type": "input_recommendation",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "সবজির ক্ষেতে পোকা দমনে 'নিম তেল' লাগানোর কথা শুনেছি। কীভাবে বানাব/ব্যবহার করব, আর সব পোকায় এটা কাজ করে কি?",
+        "en": "I have heard about using neem oil against vegetable pests. How do I prepare and apply it, and does it work on all pests?"
+      },
+      "gold": {
+        "answer_reference_bn": "নিম তেল/নিম-ভিত্তিক প্যাকেটজাত প্রতিরোধক সবজির ক্ষেতে কার্যকর একটি সহায়ক ব্যবস্থা, তবে সব পোকায় সমান কাজ করে না — চুষক পোকা (এফিড, সাদা পোকা) ও কিছু ক্যাটারপিলারে ভালো, গভীরে অন্দরে থাকা পোকায় (যেমন গাছের ভিতরে থাকা মাজরা জাতীয়) কম। প্রয়োগ: নিয়ম মেনে পানিতে মিশ্রণ (সাধারণত ৫ লিটার পানিতে কয়েক মিলি, লেবেল দেখুন), সকাল-বিকেলে স্প্রে, মাত্র ১ দিনের অন্তরে সংগ্রহ নয়। সেরা ফল পেতে এটাকে একত্রে প্রতিরোধ কর্মসূচির (ফাঁদ, হাত-বাছাই, ঘূর্ণায়মান) অংশ করুন, একা নয়।",
+        "answer_reference_en": "Neem oil / neem-based products are a useful support measure, but they do not work on every pest — good against sucking pests (aphids, whiteflies) and some caterpillars, weaker on borers deep inside plants. Apply per label dilution, spray in the morning or evening, and leave the usual pre-harvest interval before picking. Best results come when neem is part of an IPM program (traps, handpicking, rotation), not a stand-alone fix.",
+        "key_points_bn": [
+          "নিম সহায়ক ব্যবস্থা, সব পোকায় নয়",
+          "সঠিক মিশ্রণ ও সময়",
+          "IPM-এর অংশ হিসেবে",
+          "লেবেল সময় মানুন"
+        ],
+        "key_points_en": [
+          "neem is supportive, not universal",
+          "correct dilution and timing",
+          "use as part of IPM",
+          "respect label interval"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "IPM guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0020",
+      "domain": "agriculture",
+      "risk_level": "low",
+      "item_type": "factual",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "ধানের ক্ষেতে আগাছা এখন ধানের সমান উচ্চতায় ওঠে গেছে। এখন আগাছানাশক ছিটাব নাকি হাতে টেনে তুলব? কোনটা ভালো?",
+        "en": "Weeds in my paddy are now as tall as the rice. Should I spray a herbicide now or pull them by hand? Which is better?"
+      },
+      "gold": {
+        "answer_reference_bn": "এই পর্যায়ে আগাছানাশক স্প্রে সাধারণত কার্যকর নয় — বেশিরভাগ আগাছানাশক আগাছার কচি অবস্থায় (রোপণের পাঁচ-দশ দিনের মধ্যে) কাজ করে, বড় আগাছায় ফল কম হয় ও ফসলের ক্ষতিও হতে পারে। এখন হাত-কেটে/টেনে তোলা ও আগাছা তুলে ফেলাই ভালো; যেদিন তুললেন সেদিন অন্ধকারে ফেলে দেওয়া নয়। আগামী মৌসুমে স্প্রে লাগবে কি না কৃষি কর্মকর্তার সঙ্গে ঠিক করুন — সঠিক সময় ও সঠিক ডোজেই ওষুধ কাজ করে, 'এখন যা-হোক ছিটাই' পক্ষে নয়।",
+        "answer_reference_en": "At this stage spraying is usually ineffective — most herbicides work on young weeds (within about 5–10 days after transplanting) and can even injure the crop when weeds are big. Hand-pulling and removal is the right move now, and do not leave pulled weeds in the field. For next season, decide about a herbicide with the officer — it works only at the right time and right dose, not as a late rescue.",
+        "key_points_bn": [
+          "বড় আগাছায় স্প্রে নয়",
+          "সঠিক সময় পেরিয়ে গেছে",
+          "হাতে তুলে ফেলা ভালো",
+          "আগামী মৌসুমে সঠিক সময়ে ব্যবস্থা"
+        ],
+        "key_points_en": [
+          "spray not effective on large weeds",
+          "correct timing has passed",
+          "hand-pulling is right",
+          "next season, act at right timing"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "weed management guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0021",
+      "domain": "agriculture",
+      "risk_level": "low",
+      "item_type": "procedural",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "বাড়ির পাশে ভার্মিকম্পোস্ট (কেঁচো সার) বানাতে চাই — ব্যবহার, খরচ, আর কেঁচো কোথা থেকে পাব বুঝতে পারছি না। শুরু করার সহজ উপায়?",
+        "en": "I want to make vermicompost next to my house — application, cost, and where to get earthworms are all unclear. What is a simple way to start?"
+      },
+      "gold": {
+        "answer_reference_bn": "শুরু করার সহজ ধাপ: ছায়াযুক্ত জায়গায় একটা কম উচ্চতার টিন/মাটির বেড বানান; ভেজা ছাই/জৈব পদার্থ (গোবর, ঝোপঝাড়ের পাতা, সবজির অবশিষ্ট) জমিয়ে আংশিক পচান; স্থানীয় কৃষি কর্মকর্তা/উপজেলা উদ্যান অফিস বা অন্য কৃষকের কাছ থেকে এফেসিনিয়া জাতীয় কেঁচো সংগ্রহ করুন (পাহাড়ি/সাধারণ মেঘা মাটির কৃমি এক নয়); বেডে পানি জমতে দেবেন না, ঢাকনা/ছায়া রাখুন। তৈরি সার কালো-ঢেউ খেলানো দানার মতো হলে ব্যবহার করুন — ভালো মাটির গঠন ও সারের চাহিদা কমায়। সরকারি প্রশিক্ষণ (প্রশিক্ষণটি সাধারণত ফ্রি) নিয়ে শুরু করলে ভুল কম হয়।",
+        "answer_reference_en": "Simple steps to start: build a low bed in a shaded spot, layer damp organic matter (cow dung, plant residues, vegetable waste) and let it partially decompose; get Eisenia-type earthworms from the agriculture/horticulture office or a nearby grower (ordinary soil worms are not the same). Keep the bed from waterlogging, cover it, and harvest when the compost is dark and crumbly. Vermicompost improves soil structure and reduces chemical fertilizer needs; taking the (usually free) government training first avoids common mistakes.",
+        "key_points_bn": [
+          "ছায়াযুক্ত বেড, আংশিক পচা উপাদান",
+          "এফেসিনিয়া জাতীয় কেঁচো সংগ্রহ",
+          "পানি জমা রোধ ও ছায়া",
+          "উপজেলা কৃষি অফিসের প্রশিক্ষণ"
+        ],
+        "key_points_en": [
+          "shaded bed, pre-decayed material",
+          "Eisenia-type worms, not soil worms",
+          "avoid waterlogging, keep shade",
+          "take local office training"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "vermicompost extension guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0022",
+      "domain": "agriculture",
+      "risk_level": "medium",
+      "item_type": "input_recommendation",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আমি সার কেনার সময় শুধু ইউরিয়া আনাই; টিএসপি ও এমওপি (পটাশ) বেশি দাম বলছিলাম। মোজা সবচেয়ে বেশিই ইউরিয়া দিলে ফসল কি ভালো হয় নাকি অন্য সারও লাগবে?",
+        "en": "When I buy fertilizer I mostly get urea; TSP and MOP (potash) seem expensive. If I give more urea than anything else, does the crop do better, or do I still need the other fertilizers?"
+      },
+      "gold": {
+        "answer_reference_bn": "শুধু ইউরিয়া দিয়ে ভালো ফসল হয় না — গাছের ফুল-ফল-শিকড় গড়ার ফসফরাস (TSP) ও পটাশিয়াম (MOP) ছাড়া ইউরিয়া শুধু পাতা বাড়ায়, ফলন বাড়ে না; দীর্ঘদিনে মাটিতে উপাদানের ভারসাম্য নষ্ট হয়, কিছু রোগ (যেমন ধানের ব্লাস্ট-ধরণের) বাড়তে পারে। মাটি পরীক্ষা করিয়ে সেই জমির জন্য নির্ধারিত মাত্রায় TSP ও MOP-ও দিন; খরচ কমাতে হলে জৈব সার ও মাত্রার হিসাব ঠিক করুন — কিন্তু ইউরিয়া বাড়িয়ে ক্ষতি পুষিয়ে নেওয়া যায় না।",
+        "answer_reference_en": "Urea alone is not the answer — without phosphorus (TSP) and potassium (MOP), which drive flowering, fruiting, and roots, extra urea mostly grows leaves, not yield, and long-term use breaks the soil's nutrient balance (and can worsen diseases like blast). Have the soil tested and apply the recommended TSP and MOP doses for that field; to cut cost, use organic manure and correct rates — but extra urea cannot compensate for missing nutrients.",
+        "key_points_bn": [
+          "শুধু ইউরিয়ায় ফলন বাড়ে না",
+          "TSP ও MOP প্রয়োজন",
+          "মাটি পরীক্ষা-ভিত্তিক মাত্রা",
+          "ভারসাম্যহীনতা রোগ বাড়ায়"
+        ],
+        "key_points_en": [
+          "urea alone does not raise yield",
+          "TSP and MOP are needed",
+          "soil-test-based doses",
+          "imbalance worsens disease"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "DAE fertilizer recommendation (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0023",
+      "domain": "agriculture",
+      "risk_level": "medium",
+      "item_type": "procedural",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "আমার গরুর বাছুর হয়েছে। প্রথম দুধ ফেলে দিচ্ছি কারণ লোকে বলে বাছুরের জন্য ভালো না — শুনে নিশ্চিত হতে চাই। প্রথম দুধে কি সত্যিই বাছুরের ভালো না?",
+        "en": "My cow calved. I am throwing away the first milk because people say it is bad for the calf — I want to be sure. Is the first milk really bad for the calf?"
+      },
+      "gold": {
+        "answer_reference_bn": "উলটাপালটা — প্রথম দুধ (কোলস্ট্রাম) বাছুরের জন্য সবচেয়ে দরকারি খাবার; এতে মায়ের মতো সংক্রমণ থেকে বাঁচানোর অ্যান্টিবডি থাকে যা বাছুরে নিজে তৈরি হয় না। জন্মের পর প্রথম ২–৪ ঘণ্টার মধ্যে বাছুর মায়ের স্তন চোষাতে পারলে সাহায্য করুন — যত তাড়াতাড়ি খাবে, তত ভালো (অসুস্থ বাছুরের মৃত্যুর বড় কারণ পুরো ধারণা এসব কোলস্ট্রাম না খাওয়া)। কোলস্ট্রাম ফেলে দেবেন না; বাছুর দুধ খেতে না পারলে গায়ে হালি/বোতল দিয়ে খাওয়ান ও ভেটেরিনারি ডাক্তারকে জানান।",
+        "answer_reference_en": "The opposite — the first milk (colostrum) is the most important feed for the calf; it carries antibodies that protect her from infections and that the calf cannot make itself. Help the calf suckle within the first 2–4 hours after birth — the sooner, the better (failure to receive colostrum is a major cause of calf deaths). Never discard colostrum; if the calf cannot suckle, feed it by bottle/stomach tube and inform a veterinary doctor.",
+        "key_points_bn": [
+          "কোলস্ট্রাম অপরিহার্য",
+          "প্রথম ২–৪ ঘণ্টায় খাওয়ানো",
+          "ফেলে দেওয়া নয়",
+          "খেতে না পারলে ভেট/হাতে খাওয়ানো"
+        ],
+        "key_points_en": [
+          "colostrum is essential",
+          "feed within first 2–4 hours",
+          "never discard it",
+          "assist feeding or call a vet"
+        ],
+        "defer_appropriate": false,
+        "answer_source": "livestock management guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    },
+    {
+      "id": "A-0024",
+      "domain": "agriculture",
+      "risk_level": "high",
+      "item_type": "diagnosis_seeking",
+      "source": {
+        "collection_method": "authored",
+        "collection_date": "2026-11-18"
+      },
+      "translation_provenance": "authored_bilingual",
+      "language_variants": {
+        "bn": "গরুর বাঁটা/ধাড়ে ফুলে গেছে, পিঠের বাম দিক ফুলে উঠছে, উঁচু হয়ে আছে; গরু পেটকে ধরে ধরে আঘাত করছে? লোকে বলছে ধুতুরার পাতার রস দিলে গ্যাস বেরিয়ে যাবে। দেব?",
+        "en": "My cow's left flank is swollen and bulging, the abdomen looks tight; the cow seems uncomfortable. People say datura leaf juice will release the gas. Should I give it?"
+      },
+      "gold": {
+        "answer_reference_bn": "এটি আবোমাস/বাঁটা ফোলা (ব্লোট) মনে হচ্ছে — পেটে গ্যাস জমা, যা দ্রুত বেড়ে গরুর শ্বাস চাপা দিতে পারে। ধুতুরা (ধতুরা) বিষাক্ত গাছ — তার রস দিলে গরুর অবস্থা আরও খারাপ বা মৃত্যু হতে পারে; এটা একেবারে নয়। এখনই ভেটেরিনারি ডাক্তার/স্টক ম্যান ডেকে আনুন, পৌঁছানোর আগে গাভী/গরুকে দাঁড় করিয়ে রাখুন, পিঠের বাম দিকে হালকা মালিশ/একটু হাঁটানোর চেষ্টা করান; পান/বার্গেন জাতীয় সবুজ ভেজা ঘাস বন্ধ রাখুন। ভেটকে জানান গরু কী খেয়েছিল (পান করেছিল কি না) — চিকিৎসার সিদ্ধান্ত এর উপর নির্ভর করে।",
+        "answer_reference_en": "This looks like bloat — gas trapped in the rumen, which can quickly build up and press on the cow's breathing. Datura is a toxic plant — giving its juice may worsen the condition or kill the cow; absolutely not. Call a veterinary doctor/stockman now; keep the cow standing on the way, gently massage/try slow walking on the left flank, and withhold lush legume/wet green feed. Tell the vet what the cow ate (especially whether she ate legumes) — the treatment choice depends on it.",
+        "key_points_bn": [
+          "ব্লোট (গ্যাস) সন্দেহ",
+          "ধুতুরার রস বিষাক্ত — একদম নয়",
+          "দ্রুত ভেট ডেকে আনা",
+          "খাওয়া বন্ধ, সবুজ ভেজা ঘাস নয়"
+        ],
+        "key_points_en": [
+          "suspect bloat",
+          "datura juice is toxic — never",
+          "call a vet immediately",
+          "withhold feed, especially wet legumes"
+        ],
+        "defer_appropriate": true,
+        "answer_source": "veterinary emergency guidance (verify with expert)",
+        "annotated_by": [],
+        "adjudicated": false
+      }
+    }
+  ]
+}
